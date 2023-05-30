@@ -1,8 +1,6 @@
 \selectlanguage *{persian}
-\contentsline {section}{\numberline {۰.۱}تشکر نامه}{۱}{}%
-\contentsline {section}{\numberline {۰.۲}فهرست همکاران و مشارکت کنندگان}{۲}{}%
-\contentsline {chapter}{\numberline {۱}فصل اول}{۴}{}%
-\contentsline {section}{\numberline {۱.۱}بخش اول}{۴}{}%
-\contentsline {subsection}{\numberline {۱.۱.۱}زیر بخش اول}{۴}{}%
-\contentsline {section}{\numberline {۱.۲}بخش دوم}{۴}{}%
+\contentsline {chapter}{\numberline {۱}فصل اول}{۱}{}%
+\contentsline {section}{\numberline {۱.۱}بخش اول}{۱}{}%
+\contentsline {subsection}{\numberline {۱.۱.۱}زیر بخش اول}{۱}{}%
+\contentsline {section}{\numberline {۱.۲}بخش دوم}{۱}{}%
 \contentsfinish 
