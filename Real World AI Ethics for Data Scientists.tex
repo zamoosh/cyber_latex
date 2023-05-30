@@ -1,0 +1,140 @@
+% !TeX program = xelatex
+\documentclass[12pt,oneside]{book}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{tocloft} % Required for customizing the table of contents
+
+% \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} % Adds dots between section titles and page numbers
+
+
+\setmainfont[Script=Arabic,Mapping=arabicdigits]{Amiri}
+\newfontfamily\arabicfont[Script=Arabic,Mapping=arabicdigits]{Amiri}
+
+\setdefaultlanguage{persian}
+\setotherlanguages{english}
+
+\titleformat{\chapter}[display]
+{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{20pt}
+
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+\dottedcontents{chapter}[1.5em]{\bfseries}{1.5em}{1pc}
+\dottedcontents{section}[3.8em]{}{2.2em}{1pc}
+
+\setlength\parskip{1em}
+
+\begin{document}
+
+    \frontmatter
+
+    \begin{titlepage}
+        \begin{center}
+            \vspace*{1cm}
+
+            {\huge \textbf{رفتار واقعی هوش‌مصنوعی برای دانشمندان داده}}
+
+            \vspace{0.5cm}
+            \LARGE
+
+
+
+
+            \LARGE انتشارات
+
+            \large تاریخ انتشار
+
+        \end{center}
+    \end{titlepage}
+
+    \tableofcontents
+
+    \mainmatter
+
+
+    \section{تشکر نامه}
+    تشکر نامه
+    تشکر نامه: مایلم از مشارکت کنندگان زیر برای کمک‌های عالی و متنوعشان در این کتاب تشکر کنیم: پیتر هرشوک (اخلاق بودایی)، جان هکر رایت (اخلاق فضیلت)، ساموئل جی لوین و دانیل سینکلر (اخلاق یهودی)، کالین مارشال (اخلاق دئونتولوژیک)، جوی میلر و آندریا سالیوان کلارک (اخلاق بومی) و جان مورانگی (اخلاق آفریقایی). هدف ما ترسیم تصویری اخلاقی است که تا حد امکان منتوع و جذاب باشد. بدون کمک این عزیزان خردمند، توانستیم این کتاب را ایجاد کنیم!
+
+    \newpage
+
+
+    \section{فهرست همکاران و مشارکت کنندگان}
+    \twocolumn
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{پیتر سینگر}
+        \end{Large}
+        \\
+        مرکز دانشگاهی برای ارزش های انسانی دانشگاه پرینستون
+    \end{flushright}
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{ییپ فای تسه}
+        \end{Large}
+        \\
+        مرکز دانشگاهی برای ارزش های انسانی دانشگاه پرینستون
+    \end{flushright}
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{سامول جی لوین}
+        \end{Large}
+        \\
+        مرکز حقوقی تورو
+    \end{flushright}
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{کولین مارشال}
+        \end{Large}
+        \\
+        گروه فلسفه دانشگاه واشنگتن
+    \end{flushright}
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{جویی میلر}
+        \end{Large}
+        \\
+        گروه فلسفه دانشگاه وست چستر
+    \end{flushright}
+
+    \begin{flushright}
+        \begin{Large}
+            \textbf{جان مورونگی}
+        \end{Large}
+        \\
+        گروه فلسفه دانشگاه وست چستر
+    \end{flushright}
+
+
+    \chapter{فصل اول}
+
+    این یک مثال است.
+
+
+    \section{بخش اول}\label{sec:-}
+
+    این یک مثال است.
+
+    \subsection{زیر بخش اول}
+
+    این یک مثال است.
+
+
+    \section{بخش دوم}
+
+    این یک مثال است.
+
+    \backmatter
+
+\end{document}
