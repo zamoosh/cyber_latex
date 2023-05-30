@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 01:45
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 01:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,11 +771,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1]
 LaTeX Font Info:    Font shape `TU/Amiri(1)/m/sl' in size <12> not available
 (Font)              Font shape `TU/Amiri(1)/m/it' tried instead on input line 6
-2.
- [2] [3]
-فصل ۱.
-[1
-
+1.
+ [2] [3] [4
 
 ]
 The property list \polyglossia@langsetup contains the pairs (without outer
@@ -834,7 +831,11 @@ cientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
-) ) 
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  8029 strings out of 478108
  192534 string characters out of 5852087

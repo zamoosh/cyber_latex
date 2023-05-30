@@ -1,6 +1,6 @@
 \selectlanguage *{persian}
-\contentsline {chapter}{\numberline {۱}فصل اول}{۱}{}%
-\contentsline {section}{\numberline {۱.۱}بخش اول}{۱}{}%
-\contentsline {subsection}{\numberline {۱.۱.۱}زیر بخش اول}{۱}{}%
-\contentsline {section}{\numberline {۱.۲}بخش دوم}{۱}{}%
+\contentsline {chapter}{فصل اول}{iv}{}%
+\contentsline {section}{\numberline {۰.۱}بخش اول}{iv}{}%
+\contentsline {subsection}{\numberline {۰.۱.۱}زیر بخش اول}{iv}{}%
+\contentsline {section}{\numberline {۰.۲}بخش دوم}{iv}{}%
 \contentsfinish 
