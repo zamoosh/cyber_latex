@@ -1,8 +1,11 @@
 \selectlanguage *{persian}
 \contentsline {section}{تشکر نامه}{ii}{}%
 \contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iii}{}%
-\contentsline {chapter}{\numberline {۱}فصل اول}{۱}{}%
-\contentsline {section}{\numberline {۱.۱}بخش اول}{۱}{}%
-\contentsline {subsection}{\numberline {۱.۱.۱}زیر بخش اول}{۱}{}%
-\contentsline {section}{\numberline {۱.۲}بخش دوم}{۱}{}%
+\contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{}%
+\contentsline {section}{\numberline {۱.۱}ماشین‌های اخلاقی}{۱}{}%
+\contentsline {paragraph}{}{۱}{}%
+\contentsline {paragraph}{}{۳}{}%
+\contentsline {subsection}{\numberline {۱.۱.۱}علم داده چیست؟}{۵}{}%
+\contentsline {subsection}{\numberline {۱.۱.۲}زیر بخش اول}{۵}{}%
+\contentsline {section}{\numberline {۱.۲}بخش دوم}{۵}{}%
 \contentsfinish 
