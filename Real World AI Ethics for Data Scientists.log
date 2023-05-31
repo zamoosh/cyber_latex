@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 19:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@chapter=\count182
@@ -317,30 +317,11 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip85
 \cfttabnumwidth=\skip86
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count288
-\Gm@cntv=\count289
-\c@Gm@tempcnt=\count290
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks19
-)
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count291
-\l__lipsum_a_int=\count292
-\l__lipsum_b_int=\count293
+\g__lipsum_par_int=\count288
+\l__lipsum_a_int=\count289
+\l__lipsum_b_int=\count290
 
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
@@ -359,6 +340,141 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \RaggedLeftParindent=\skip98
 \RaggedRightParindent=\skip99
 \JustifyingParindent=\skip100
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabtex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/aconfig.sty
+LaTeX2e detected 
+\a@moduledate=\count291
+\a@maindate=\count292
+)
+Package: arabtex 2003/08/22  3.11 ArabTeX main module
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabaux.sty
+Package: arabaux 2003/05/21  3.11 auxiliary macros for ArabTeX
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 55
+1.
+LaTeX Font Info:    No file TUptm.fd. on input line 551.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 551.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 551.
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/acmd.sty
+Package: acmd 2003/08/20  3.11 Arabic command processing 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/afonts.sty
+Package: afonts 1995/11/16  3.04 define Naskh font 
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/afonts2.sty
+Package: afonts2 1998/10/19  3.10 define Naskh fonts for LaTeX2e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/ascan.sty
+Package: ascan 2003/08/22  3.11 standard ZDMG input encoding 
+
+(ArabTeX) scanner for code `arabtex' installed.
+(ArabTeX) input encoding set to ArabTeX standard conventions.)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/aparse.sty
+Package: aparse 2003/05/26  3.11 get syllables 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/awrite.sty
+Package: awrite 2003/06/05  3.11 build output word 
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/xarbsymb.sty
+Package: xarbsymb 1998/07/15  3.07 symbolic output encoding 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabskel.sty
+Package: arabskel 2000/06/04  3.10 character skeleton definitions 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/xarbskel.sty
+Package: xarbskel 1999/07/17  3.09 character skeleton definitions 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/aboxes.sty
+Package: aboxes 2003/05/28  3.11 build output boxes
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabtoks.sty
+Package: arabtoks 1999/07/17  3.09 ArabTeX CS token definitions 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabchrs.sty
+Package: arabchrs 1998/07/11  3.07 letter token definitions 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/aligs.sty
+Package: aligs 2003/05/26  3.11 compute ligatures
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/aoutput.sty
+Package: aoutput 2000/06/04  3.10 build output lines
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/abidir.sty
+Package: abidir 2003/08/22  3.11 bidirectional linebreaking
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/atrans.sty
+Package: atrans 2003/06/14  3.11 generate the transliteration 
+
+(ArabTeX) ZDMG transliteration.)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/alatex.sty
+Package: alatex 2003/05/04  3.11 ArabTeX extensions for LaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/afoot.sty
+Package: afoot 2003/05/12  3.11 ArabTeX footnotes
+))
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/abjad.sty
+Package: abjad 2003/04/26  3.11 abjad numerals 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/apatch.sty
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/alists.sty
+Package: alists 2003/04/26  3.11 inverted list macros
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/asect.sty
+Package: asect 2003/04/26  3.11 section macros for Arabic
+)
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/atabg.sty
+Package: atabg 1997/01/21  3.05 LaTeX tabbing macros for Arabic
+)
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1300 replaced by U+FFFD.
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/alocal.sty
+(ArabTeX) 3.11 local stub, 26.02.2006)
+Package: apatch 2006/07/02  3.11s last minute patches 
+)
+Arabic processor `ArabTeX' [20060702 patch level 3.11s (02.07.2006)]
+(ArabTeX) ... now be patient ... )
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/utf8.sty
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/utfcode.sty
+Package: utfcode 2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
+\u@lb=\count322
+\u@lq=\count323
+)
+Package: utf8 2000/06/13  3.10 UTF-8 input encoding 
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+
+(ArabTeX) scanner for code UTF-8 installed.)
+(ArabTeX) input encoding set to UTF-8 conventions
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count324
+\Gm@cntv=\count325
+\c@Gm@tempcnt=\count326
+\Gm@bindingoffset=\dimen179
+\Gm@wd@mp=\dimen180
+\Gm@odd@mp=\dimen181
+\Gm@even@mp=\dimen182
+\Gm@layoutwidth=\dimen183
+\Gm@layoutheight=\dimen184
+\Gm@layouthoffset=\dimen185
+\Gm@layoutvoffset=\dimen186
+\Gm@dimlist=\toks39
 )
 
 Package fontspec Info: Could not resolve font "IRANSansX/I" (it probably
@@ -446,19 +562,19 @@ Package: bidi 2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaTeX
 ****************************************************
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/02/01 v2.1 Programming tools for bidi package
-\@bidi@envbody=\toks20
-\@bidi@emptytoks=\toks21
-\bidi@poscount=\count294
-\bidi@tempcountb=\count295
-\bidi@temptoksa=\toks22
-\bidi@temptoksb=\toks23
-\bidi@dummies=\count296
-\bidi@are@these@correct=\toks24
-\bidi@toks@lista=\toks25
-\bidi@toks@listb=\toks26
-\bidi@stack@length=\count297
-\bidi@empty@stack=\toks27
-\bidi@looprepeat@depth=\count298
+\@bidi@envbody=\toks40
+\@bidi@emptytoks=\toks41
+\bidi@poscount=\count327
+\bidi@tempcountb=\count328
+\bidi@temptoksa=\toks42
+\bidi@temptoksb=\toks43
+\bidi@dummies=\count329
+\bidi@are@these@correct=\toks44
+\bidi@toks@lista=\toks45
+\bidi@toks@listb=\toks46
+\bidi@stack@length=\count330
+\bidi@empty@stack=\toks47
+\bidi@looprepeat@depth=\count331
 )
 ==> First Aid for biditools.sty no longer applied!
     Expected:
@@ -496,16 +612,20 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+
+
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
+
 )
 Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count299
+\c@abspage=\count332
 Package zref Info: New property: abspage on input line 66.
 )
 \@bidi@copyins@=\insert252
@@ -513,14 +633,14 @@ Package zref Info: New property: abspage on input line 66.
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks28
-\bidi@column@check@number=\count300
+\bidi@n@everypar=\toks48
+\bidi@column@check@number=\count333
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count301
-\footdir@toks=\toks29
+\c@footdir@label=\count334
+\footdir@toks=\toks49
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -565,7 +685,7 @@ ge for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count302
+\bidi@digits=\count335
 \bidi@digits@charclass=\XeTeXcharclass2
 \bidi@sepmark@charclass=\XeTeXcharclass3
 )
@@ -578,69 +698,69 @@ Package: farsical 2019/12/12 v0.2 Farsi (jalali) calendar
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count303
-\calc@Bcount=\count304
-\calc@Adimen=\dimen165
-\calc@Bdimen=\dimen166
-\calc@Askip=\skip101
-\calc@Bskip=\skip102
+\calc@Acount=\count336
+\calc@Bcount=\count337
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip103
+\calc@Bskip=\skip104
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count305
-\calc@Cskip=\skip103
+\calc@Ccount=\count338
+\calc@Cskip=\skip105
 )
-\JALALI@i=\count306
-\JALALI@y=\count307
-\JALALI@m=\count308
-\JALALI@d=\count309
-\JALALI@latini=\count310
-\JALALI@farsii=\count311
-\JALALI@latinii=\count312
-\JALALI@farsiii=\count313
-\JALALI@latiniii=\count314
-\JALALI@farsiiii=\count315
-\JALALI@latiniv=\count316
-\JALALI@farsiiv=\count317
-\JALALI@latinv=\count318
-\JALALI@farsiv=\count319
-\JALALI@latinvi=\count320
-\JALALI@farsivi=\count321
-\JALALI@latinvii=\count322
-\JALALI@farsivii=\count323
-\JALALI@latinviii=\count324
-\JALALI@farsiviii=\count325
-\JALALI@latinix=\count326
-\JALALI@farsiix=\count327
-\JALALI@latinx=\count328
-\JALALI@farsix=\count329
-\JALALI@latinxi=\count330
-\JALALI@farsixi=\count331
-\JALALI@latinxii=\count332
-\JALALI@farsixii=\count333
-\JALALI@farsixiii=\count334
-\JALALI@temp=\count335
-\JALALI@temptwo=\count336
-\JALALI@tempthree=\count337
-\JALALI@yModHundred=\count338
-\JALALI@thirtytwo=\count339
-\JALALI@dn=\count340
-\JALALI@sn=\count341
-\JALALI@mminusone=\count342
+\JALALI@i=\count339
+\JALALI@y=\count340
+\JALALI@m=\count341
+\JALALI@d=\count342
+\JALALI@latini=\count343
+\JALALI@farsii=\count344
+\JALALI@latinii=\count345
+\JALALI@farsiii=\count346
+\JALALI@latiniii=\count347
+\JALALI@farsiiii=\count348
+\JALALI@latiniv=\count349
+\JALALI@farsiiv=\count350
+\JALALI@latinv=\count351
+\JALALI@farsiv=\count352
+\JALALI@latinvi=\count353
+\JALALI@farsivi=\count354
+\JALALI@latinvii=\count355
+\JALALI@farsivii=\count356
+\JALALI@latinviii=\count357
+\JALALI@farsiviii=\count358
+\JALALI@latinix=\count359
+\JALALI@farsiix=\count360
+\JALALI@latinx=\count361
+\JALALI@farsix=\count362
+\JALALI@latinxi=\count363
+\JALALI@farsixi=\count364
+\JALALI@latinxii=\count365
+\JALALI@farsixii=\count366
+\JALALI@farsixiii=\count367
+\JALALI@temp=\count368
+\JALALI@temptwo=\count369
+\JALALI@tempthree=\count370
+\JALALI@yModHundred=\count371
+\JALALI@thirtytwo=\count372
+\JALALI@dn=\count373
+\JALALI@sn=\count374
+\JALALI@mminusone=\count375
 )
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/hijrical.sty
 Package: hijrical 2010/07/12 v0.2 Islamic calendar
 
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/cal-util.def
-\c@tmpA=\count343
-\c@tmpB=\count344
-\c@tmpC=\count345
-\c@tmpD=\count346
-\c@tmpE=\count347
-\c@tmpF=\count348
+\c@tmpA=\count376
+\c@tmpB=\count377
+\c@tmpC=\count378
+\c@tmpD=\count379
+\c@tmpE=\count380
+\c@tmpF=\count381
 )
-\c@Hijriday=\count349
-\c@Hijrimonth=\count350
-\c@Hijriyear=\count351
+\c@Hijriday=\count382
+\c@Hijrimonth=\count383
+\c@Hijriyear=\count384
 )
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -733,6 +853,10 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Package polyglossia Info: Option: English, variant=american.
 )
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
 (./Real World AI Ethics for Data Scientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
@@ -740,29 +864,29 @@ LaTeX Info: Redefining \ttfamily on input line 3.
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-\big@size=\dimen167
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+\big@size=\dimen189
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -772,23 +896,23 @@ LaTeX Font Info:    ... okay on input line 46.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
+* h-part:(L,W,R)=(42.67912pt, 335.74254pt, 42.67912pt)
 * v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=294.76926pt
+* \textwidth=335.74254pt
 * \textheight=418.25368pt
-* \oddsidemargin=-9.10423pt
-* \evensidemargin=-9.10423pt
-* \topmargin=-32.44212pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-30.63582pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=47.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -798,77 +922,82 @@ LaTeX Font Info:    ... okay on input line 46.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \rmfamily on input line 46.
-LaTeX Info: Redefining \sffamily on input line 46.
-LaTeX Info: Redefining \ttfamily on input line 46.
-LaTeX Info: Redefining \rmfamily on input line 46.
-LaTeX Info: Redefining \sffamily on input line 46.
-LaTeX Info: Redefining \ttfamily on input line 46.
-[1
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/apatch.sty
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1300 replaced by U+FFFD.
+\a@lines=\count385
+\a@Lwidth=\dimen190
+\a@displaywidth=\dimen191
+
+(/usr/share/texlive/texmf-dist/tex/latex/arabtex/alocal.sty
+(ArabTeX) 3.11 local stub, 26.02.2006)
+(ArabTeX) version 3.11s (02.07.2006): second phase of patching) [1
 
 
 
-] (./Real World AI Ethics for Data Scientists.toc
+]
+(./Real World AI Ethics for Data Scientists.toc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 8.
+ 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 8.
+ 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 8.
+ 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 8.
+ 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 )
-\tf@toc=\write3
-\openout3 = `"Real World AI Ethics for Data Scientists.toc"'.
+\tf@toc=\write5
+\openout5 = `"Real World AI Ethics for Data Scientists.toc"'.
 
  [1]
 
 LaTeX Font Warning: Font shape `TU/IRANSansX(1)/m/sl' undefined
-(Font)              using `TU/IRANSansX(1)/m/n' instead on input line 76.
+(Font)              using `TU/IRANSansX(1)/m/n' instead on input line 85.
 
 [2] [3]
 فصل ۱.
 [1
 
 
-] [2] [3]
-Overfull \hbox (5.65134pt too wide) in paragraph at lines 211--212
-[]\TU/IRANSansX(1)/m/n/10.95 عنصری است که از دنیای واقعی انتزاع شده است و «اطلا
-عات»، داده‌هایی[]
- []
-
-[4] [5]
+] [2] [3] [4] [5]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -925,16 +1054,136 @@ LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
 )
 
+ *File List*
+    book.cls    2021/10/04 v1.4n Standard LaTeX document class
+    bk10.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+fontspec.sty    2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+   expl3.sty    2022-01-21 L3 programming layer (loader) 
+l3backend-xetex.def    2022-01-12 L3 backend support: XeTeX
+fontspec-xetex.sty    2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+ fontenc.sty
+fontspec.cfg
+polyglossia.sty    2021/04/12 v1.53 Modern multilingual typesetting with XeLaTe
+X and LuaLaTeX
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+makecmds.sty    2009/09/03 v1.0a extra command making commands
+ xkeyval.sty    2020/11/20 v2.8 package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+l3keys2e.sty    2022-01-12 LaTeX2e option processing using LaTeX3 keys
+gloss-latex.ldf    polyglossia: module for default language
+setspace.sty    2011/12/19 v6.7a set line spacing
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+   xetex.def    2021/03/18 v5.0k Graphics/color driver for xetex
+titlesec.sty    2021/07/05 v2.14 Sectioning titles
+titletoc.sty    2021/07/05 v2.14 TOC entries
+multicol.sty    2021/10/28 v1.9b multicolumn formatting (FMi)
+mathptmx.sty    2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+  lipsum.sty    2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+  lipsum.ltd
+ragged2e.sty    2021/12/15 v3.1 ragged2e Package
+ arabtex.sty    2003/08/22  3.11 ArabTeX main module
+ arabaux.sty    2003/05/21  3.11 auxiliary macros for ArabTeX
+    acmd.sty    2003/08/20  3.11 Arabic command processing 
+  afonts.sty    1995/11/16  3.04 define Naskh font 
+ afonts2.sty    1998/10/19  3.10 define Naskh fonts for LaTeX2e
+   ascan.sty    2003/08/22  3.11 standard ZDMG input encoding 
+  aparse.sty    2003/05/26  3.11 get syllables 
+  awrite.sty    2003/06/05  3.11 build output word 
+xarbsymb.sty    1998/07/15  3.07 symbolic output encoding 
+arabskel.sty    2000/06/04  3.10 character skeleton definitions 
+xarbskel.sty    1999/07/17  3.09 character skeleton definitions 
+  aboxes.sty    2003/05/28  3.11 build output boxes
+arabtoks.sty    1999/07/17  3.09 ArabTeX CS token definitions 
+arabchrs.sty    1998/07/11  3.07 letter token definitions 
+   aligs.sty    2003/05/26  3.11 compute ligatures
+ aoutput.sty    2000/06/04  3.10 build output lines
+  abidir.sty    2003/08/22  3.11 bidirectional linebreaking
+  atrans.sty    2003/06/14  3.11 generate the transliteration 
+  alatex.sty    2003/05/04  3.11 ArabTeX extensions for LaTeX 
+   afoot.sty    2003/05/12  3.11 ArabTeX footnotes
+   abjad.sty    2003/04/26  3.11 abjad numerals 
+  apatch.sty    2006/07/02  3.11s last minute patches 
+  alists.sty    2003/04/26  3.11 inverted list macros
+   asect.sty    2003/04/26  3.11 section macros for Arabic
+   atabg.sty    1997/01/21  3.05 LaTeX tabbing macros for Arabic
+    utf8.sty    2000/06/13  3.10 UTF-8 input encoding 
+ utfcode.sty    2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+gloss-persian.ldf    polyglossia: module for persian
+    bidi.sty    2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaT
+eX
+biditools.sty    2022/02/01 v2.1 Programming tools for bidi package
+zref-abspage.sty    2020-07-03 v2.32 Module abspage for zref (HO)
+zref-base.sty    2020-07-03 v2.32 Module base for zref (HO)
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+atbegshi.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+latex-xetex-bidi.def    2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' for 
+XeTeX engine
+footnote-xetex-bidi.def    2017/08/09 v1.1 bidi footnote macros for XeTeX engin
+e
+book-xetex-bidi.def    2017/06/09 v1.0 bidi adaptations for standard book class
+ for XeTeX engine
+color-xetex-bidi.def    2013/04/08 v0.2 bidi adaptations for color package for 
+XeTeX engine
+xcolor-xetex-bidi.def    2013/04/08 v0.2 bidi adaptations for xcolor package fo
+r XeTeX engine
+geometry-xetex-bidi.def    2017/01/14 v0.2 bidi adaptations for geometry packag
+e for XeTeX engine
+titlesec-xetex-bidi.def    2010/07/25 v0.1 bidi adaptations for titlesec packag
+e for XeTeX engine
+titletoc-xetex-bidi.def    2013/04/10 v0.2 bidi adaptations for titletoc packag
+e for XeTeX engine
+multicol-xetex-bidi.def    2022/02/01 v1.3 bidi adaptations for multicol packag
+e for XeTeX engine
+ragged2e-xetex-bidi.def    2018/10/17 v0.3 bidi adaptations for ragged2e packag
+e for XeTeX engine
+tocloft-xetex-bidi.def    2010/07/25 v0.2 bidi adaptations for tocloft package 
+for XeTeX engine
+loadingorder-xetex-bidi.def    2017/12/29 v0.97 making sure that bidi is the la
+st package loaded
+arabicnumbers.sty    2010/03/18 v0.2 Formatting of Arabic and Farsi digits and 
+of Arabic abjad numerals
+farsical.sty    2019/12/12 v0.2 Farsi (jalali) calendar
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+hijrical.sty    2010/07/12 v0.2 Islamic calendar
+cal-util.def
+gloss-english.ldf    polyglossia: module for english
+  ts1cmr.fd    2019/12/16 v2.5j Standard LaTeX font definitions
+  apatch.sty    2006/07/02  3.11s last minute patches 
+ot1ztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+omlztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+omsztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+omxztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+  ot1ptm.fd    2001/06/04 font definitions for OT1/ptm.
+ ***********
+
+
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 53 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 9209 strings out of 478108
- 215859 string characters out of 5852087
- 748511 words of memory out of 5000000
- 29650 multiletter control sequences out of 15000+600000
- 477557 words of font info for 67 fonts, out of 8000000 for 9000
+ 11904 strings out of 478108
+ 249424 string characters out of 5852087
+ 790781 words of memory out of 5000000
+ 32251 multiletter control sequences out of 15000+600000
+ 477565 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 83i,5n,98p,2663b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,5n,98p,2663b,1106s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Real World AI Ethics for Data Scientists.pdf (9 pages).

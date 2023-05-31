@@ -3,9 +3,9 @@
 \contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iii}{}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{}%
 \contentsline {section}{\numberline {۱.۱}ماشین‌های اخلاقی}{۱}{}%
-\contentsline {paragraph}{}{۱}{}%
+\contentsline {section}{\numberline {۱.۲}علم داده چیست؟}{۳}{}%
 \contentsline {paragraph}{}{۳}{}%
-\contentsline {subsection}{\numberline {۱.۱.۱}علم داده چیست؟}{۵}{}%
-\contentsline {subsection}{\numberline {۱.۱.۲}زیر بخش اول}{۵}{}%
-\contentsline {section}{\numberline {۱.۲}بخش دوم}{۵}{}%
+\contentsline {section}{\numberline {۱.۳}موارد مطالعاتی}{۵}{}%
+\contentsline {subsection}{\numberline {۱.۳.۱}زیر بخش اول}{۵}{}%
+\contentsline {section}{\numberline {۱.۴}بخش دوم}{۵}{}%
 \contentsfinish 
