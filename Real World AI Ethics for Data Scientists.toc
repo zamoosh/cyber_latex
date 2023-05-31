@@ -5,7 +5,9 @@
 \contentsline {section}{\numberline {۱.۱}ماشین‌های اخلاقی}{۱}{}%
 \contentsline {section}{\numberline {۱.۲}علم داده چیست؟}{۳}{}%
 \contentsline {paragraph}{}{۳}{}%
-\contentsline {section}{\numberline {۱.۳}موارد مطالعاتی}{۵}{}%
-\contentsline {subsection}{\numberline {۱.۳.۱}زیر بخش اول}{۵}{}%
+\contentsline {section}{\numberline {۱.۳}موارد مطالعاتی}{۴}{}%
+\contentsline {subsection}{\numberline {۱.۳.۱}مورد اول اخلاق تحقیق و روش علمی}{۴}{}%
+\contentsline {paragraph}{}{۴}{}%
+\contentsline {subsection}{\numberline {۱.۳.۲}زیر بخش اول}{۵}{}%
 \contentsline {section}{\numberline {۱.۴}بخش دوم}{۵}{}%
 \contentsfinish 
