@@ -1,12 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 12:58
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  31 MAY 2023 13:54
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **"Real World AI Ethics for Data Scientists.tex"
-
-(/W/code and project/code project/latex/fouladi/Real World AI Ethics for Data S
-cientists.tex
+(./Real World AI Ethics for Data Scientists.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -284,59 +281,72 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip85
 \cfttabnumwidth=\skip86
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amiri/Amiri.fontspec)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-Package fontspec Info: Font family 'Amiri(0)' created for font 'Amiri' with
-(fontspec)             options
-(fontspec)             [Ligatures=TeX,Extension=.ttf,UprightFont=*-Regular,Ital
-icFont=*-Slanted,BoldFont=*-Bold,BoldItalicFont=*-BoldSlanted,Script=Arabic,Map
-ping=arabicdigits].
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count288
+\Gm@cntv=\count289
+\c@Gm@tempcnt=\count290
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks19
+)
+
+Package fontspec Info: Could not resolve font "IRANSansX/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'IRANSansX(0)' created for font 'IRANSansX'
+(fontspec)             with options
+(fontspec)             [Ligatures=TeX,Script=Arabic,Mapping=arabicdigits].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[Amiri-Regular.ttf]/OT:script=arab;language=dflt;map
-ping=arabicdigits;"
+(fontspec)             <->"IRANSansX/OT:script=arab;language=dflt;mapping=arabi
+cdigits;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[Amiri-Bold.ttf]/OT:script=arab;language=dflt;mappin
-g=arabicdigits;"
+(fontspec)             <->"IRANSansX/B/OT:script=arab;language=dflt;mapping=ara
+bicdigits;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[Amiri-Slanted.ttf]/OT:script=arab;language=dflt;map
-ping=arabicdigits;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[Amiri-BoldSlanted.ttf]/OT:script=arab;language=dflt
-;mapping=arabicdigits;"
+(fontspec)             <->"IRANSansX/BI/OT:script=arab;language=dflt;mapping=ar
+abicdigits;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: Font family 'Amiri(1)' created for font 'Amiri' with
-(fontspec)             options
-(fontspec)             [Extension=.ttf,UprightFont=*-Regular,ItalicFont=*-Slant
-ed,BoldFont=*-Bold,BoldItalicFont=*-BoldSlanted,Script=Arabic,Mapping=arabicdig
-its].
+Package fontspec Info: Could not resolve font "IRANSansX/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'IRANSansX(1)' created for font 'IRANSansX'
+(fontspec)             with options [Script=Arabic,Mapping=arabicdigits].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[Amiri-Regular.ttf]/OT:script=arab;language=dflt;map
-ping=arabicdigits;"
+(fontspec)             <->"IRANSansX/OT:script=arab;language=dflt;mapping=arabi
+cdigits;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[Amiri-Bold.ttf]/OT:script=arab;language=dflt;mappin
-g=arabicdigits;"
+(fontspec)             <->"IRANSansX/B/OT:script=arab;language=dflt;mapping=ara
+bicdigits;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[Amiri-Slanted.ttf]/OT:script=arab;language=dflt;map
-ping=arabicdigits;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[Amiri-BoldSlanted.ttf]/OT:script=arab;language=dflt
-;mapping=arabicdigits;"
+(fontspec)             <->"IRANSansX/BI/OT:script=arab;language=dflt;mapping=ar
+abicdigits;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
@@ -376,19 +386,19 @@ Package: bidi 2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaTeX
 ****************************************************
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/02/01 v2.1 Programming tools for bidi package
-\@bidi@envbody=\toks19
-\@bidi@emptytoks=\toks20
-\bidi@poscount=\count288
-\bidi@tempcountb=\count289
-\bidi@temptoksa=\toks21
-\bidi@temptoksb=\toks22
-\bidi@dummies=\count290
-\bidi@are@these@correct=\toks23
-\bidi@toks@lista=\toks24
-\bidi@toks@listb=\toks25
-\bidi@stack@length=\count291
-\bidi@empty@stack=\toks26
-\bidi@looprepeat@depth=\count292
+\@bidi@envbody=\toks20
+\@bidi@emptytoks=\toks21
+\bidi@poscount=\count291
+\bidi@tempcountb=\count292
+\bidi@temptoksa=\toks22
+\bidi@temptoksb=\toks23
+\bidi@dummies=\count293
+\bidi@are@these@correct=\toks24
+\bidi@toks@lista=\toks25
+\bidi@toks@listb=\toks26
+\bidi@stack@length=\count294
+\bidi@empty@stack=\toks27
+\bidi@looprepeat@depth=\count295
 )
 ==> First Aid for biditools.sty no longer applied!
     Expected:
@@ -435,7 +445,7 @@ Package zref Info: New property: page on input line 766.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count293
+\c@abspage=\count296
 Package zref Info: New property: abspage on input line 66.
 )
 \@bidi@copyins@=\insert252
@@ -443,14 +453,14 @@ Package zref Info: New property: abspage on input line 66.
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks27
-\bidi@column@check@number=\count294
+\bidi@n@everypar=\toks28
+\bidi@column@check@number=\count297
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count295
-\footdir@toks=\toks28
+\c@footdir@label=\count298
+\footdir@toks=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -466,6 +476,10 @@ File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
  for XeTeX engine
 LaTeX Info: Redefining \color on input line 49.
 LaTeX Info: Redefining \bidicolor on input line 92.
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
 File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
@@ -487,7 +501,7 @@ ge for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count296
+\bidi@digits=\count299
 \bidi@digits@charclass=\XeTeXcharclass2
 \bidi@sepmark@charclass=\XeTeXcharclass3
 )
@@ -500,69 +514,69 @@ Package: farsical 2019/12/12 v0.2 Farsi (jalali) calendar
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count297
-\calc@Bcount=\count298
-\calc@Adimen=\dimen157
-\calc@Bdimen=\dimen158
+\calc@Acount=\count300
+\calc@Bcount=\count301
+\calc@Adimen=\dimen165
+\calc@Bdimen=\dimen166
 \calc@Askip=\skip87
 \calc@Bskip=\skip88
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count299
+\calc@Ccount=\count302
 \calc@Cskip=\skip89
 )
-\JALALI@i=\count300
-\JALALI@y=\count301
-\JALALI@m=\count302
-\JALALI@d=\count303
-\JALALI@latini=\count304
-\JALALI@farsii=\count305
-\JALALI@latinii=\count306
-\JALALI@farsiii=\count307
-\JALALI@latiniii=\count308
-\JALALI@farsiiii=\count309
-\JALALI@latiniv=\count310
-\JALALI@farsiiv=\count311
-\JALALI@latinv=\count312
-\JALALI@farsiv=\count313
-\JALALI@latinvi=\count314
-\JALALI@farsivi=\count315
-\JALALI@latinvii=\count316
-\JALALI@farsivii=\count317
-\JALALI@latinviii=\count318
-\JALALI@farsiviii=\count319
-\JALALI@latinix=\count320
-\JALALI@farsiix=\count321
-\JALALI@latinx=\count322
-\JALALI@farsix=\count323
-\JALALI@latinxi=\count324
-\JALALI@farsixi=\count325
-\JALALI@latinxii=\count326
-\JALALI@farsixii=\count327
-\JALALI@farsixiii=\count328
-\JALALI@temp=\count329
-\JALALI@temptwo=\count330
-\JALALI@tempthree=\count331
-\JALALI@yModHundred=\count332
-\JALALI@thirtytwo=\count333
-\JALALI@dn=\count334
-\JALALI@sn=\count335
-\JALALI@mminusone=\count336
+\JALALI@i=\count303
+\JALALI@y=\count304
+\JALALI@m=\count305
+\JALALI@d=\count306
+\JALALI@latini=\count307
+\JALALI@farsii=\count308
+\JALALI@latinii=\count309
+\JALALI@farsiii=\count310
+\JALALI@latiniii=\count311
+\JALALI@farsiiii=\count312
+\JALALI@latiniv=\count313
+\JALALI@farsiiv=\count314
+\JALALI@latinv=\count315
+\JALALI@farsiv=\count316
+\JALALI@latinvi=\count317
+\JALALI@farsivi=\count318
+\JALALI@latinvii=\count319
+\JALALI@farsivii=\count320
+\JALALI@latinviii=\count321
+\JALALI@farsiviii=\count322
+\JALALI@latinix=\count323
+\JALALI@farsiix=\count324
+\JALALI@latinx=\count325
+\JALALI@farsix=\count326
+\JALALI@latinxi=\count327
+\JALALI@farsixi=\count328
+\JALALI@latinxii=\count329
+\JALALI@farsixii=\count330
+\JALALI@farsixiii=\count331
+\JALALI@temp=\count332
+\JALALI@temptwo=\count333
+\JALALI@tempthree=\count334
+\JALALI@yModHundred=\count335
+\JALALI@thirtytwo=\count336
+\JALALI@dn=\count337
+\JALALI@sn=\count338
+\JALALI@mminusone=\count339
 )
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/hijrical.sty
 Package: hijrical 2010/07/12 v0.2 Islamic calendar
 
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/cal-util.def
-\c@tmpA=\count337
-\c@tmpB=\count338
-\c@tmpC=\count339
-\c@tmpD=\count340
-\c@tmpE=\count341
-\c@tmpF=\count342
+\c@tmpA=\count340
+\c@tmpB=\count341
+\c@tmpC=\count342
+\c@tmpD=\count343
+\c@tmpE=\count344
+\c@tmpF=\count345
 )
-\c@Hijriday=\count343
-\c@Hijrimonth=\count344
-\c@Hijriyear=\count345
+\c@Hijriday=\count346
+\c@Hijrimonth=\count347
+\c@Hijriyear=\count348
 )
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -655,106 +669,142 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Package polyglossia Info: Option: English, variant=american.
 )
-(/W/code and project/code project/latex/fouladi/Real World AI Ethics for Data S
-cientists.aux
+(./Real World AI Ethics for Data Scientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-4.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+8.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
-LaTeX Font Info:    Redeclaring math accent \check on input line 34.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Amiri(0)/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> TU/IRANSansX(0)/m/n on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Amiri(0)/m/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/IRANSansX(0)/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Amiri(0)/m/n --> TU/Amiri(0)/m/n on input line 34.
+(Font)                  TU/IRANSansX(0)/m/n --> TU/IRANSansX(0)/m/n on input li
+ne 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Amiri(0)/m/it on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Amiri(0)/b/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Amiri(0)/m/n --> TU/Amiri(0)/b/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Amiri(0)/b/it on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 34.
-LaTeX Info: Redefining \rmfamily on input line 34.
-LaTeX Info: Redefining \sffamily on input line 34.
-LaTeX Info: Redefining \ttfamily on input line 34.
-LaTeX Info: Redefining \rmfamily on input line 34.
-LaTeX Info: Redefining \sffamily on input line 34.
-LaTeX Info: Redefining \ttfamily on input line 34.
+(Font)                  OT1/cmr/m/it --> TU/IRANSansX(0)/m/it on input line 38.
 
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/IRANSansX(0)/b/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/IRANSansX(0)/m/n --> TU/IRANSansX(0)/b/n on input li
+ne 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/IRANSansX(0)/b/it on input line 38
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=294.76926pt
+* \textheight=418.25368pt
+* \oddsidemargin=-9.10423pt
+* \evensidemargin=-9.10423pt
+* \topmargin=-32.44212pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 38.
+LaTeX Info: Redefining \ttfamily on input line 38.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 38.
+LaTeX Info: Redefining \ttfamily on input line 38.
 [1
 
 
 
-]
-(/W/code and project/code project/latex/fouladi/Real World AI Ethics for Data S
-cientists.toc
+] (./Real World AI Ethics for Data Scientists.toc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
@@ -769,10 +819,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `"Real World AI Ethics for Data Scientists.toc"'.
 
  [1]
-LaTeX Font Info:    Font shape `TU/Amiri(1)/m/sl' in size <12> not available
-(Font)              Font shape `TU/Amiri(1)/m/it' tried instead on input line 6
-2.
- [2] [3]
+
+LaTeX Font Warning: Font shape `TU/IRANSansX(1)/m/sl' undefined
+(Font)              using `TU/IRANSansX(1)/m/n' instead on input line 68.
+
+[2] [3]
 فصل ۱.
 [1
 
@@ -828,21 +879,22 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-
-(/W/code and project/code project/latex/fouladi/Real World AI Ethics for Data S
-cientists.aux
+ (./Real World AI Ethics for Data Scientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
-) ) 
+)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 8028 strings out of 478108
- 192527 string characters out of 5852087
- 642475 words of memory out of 5000000
- 28505 multiletter control sequences out of 15000+600000
- 472163 words of font info for 58 fonts, out of 8000000 for 9000
+ 8587 strings out of 478108
+ 201894 string characters out of 5852087
+ 652906 words of memory out of 5000000
+ 29062 multiletter control sequences out of 15000+600000
+ 472155 words of font info for 57 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  83i,5n,98p,2663b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /W/code and project/code project/latex/fouladi/Real World AI 
-Ethics for Data Scientists.pdf (5 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (5 pages).
