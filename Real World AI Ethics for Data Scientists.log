@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  1 JUN 2023 14:58
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  1 JUN 2023 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,6 +1081,10 @@ LaTeX Info: Redefining \rmfamily on input line 314.
 LaTeX Info: Redefining \sffamily on input line 314.
 LaTeX Info: Redefining \ttfamily on input line 314.
  [7] [8]
+LaTeX Info: Redefining \rmfamily on input line 351.
+LaTeX Info: Redefining \sffamily on input line 351.
+LaTeX Info: Redefining \ttfamily on input line 351.
+ [9] [10]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1131,7 +1135,8 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- (./Real World AI Ethics for Data Scientists.aux
+
+(./Real World AI Ethics for Data Scientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
@@ -1270,10 +1275,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  12689 strings out of 478108
  262848 string characters out of 5852087
- 813113 words of memory out of 5000000
+ 814113 words of memory out of 5000000
  33014 multiletter control sequences out of 15000+600000
  477549 words of font info for 66 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  83i,6n,98p,2663b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (12 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (14 pages).
