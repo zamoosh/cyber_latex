@@ -8,6 +8,8 @@
 \contentsline {section}{\numberline {۱.۳}موارد مطالعاتی}{۴}{}%
 \contentsline {subsection}{\numberline {۱.۳.۱}مورد اول اخلاق تحقیق و روش علمی}{۴}{}%
 \contentsline {paragraph}{}{۴}{}%
-\contentsline {subsection}{\numberline {۱.۳.۲}زیر بخش اول}{۵}{}%
-\contentsline {section}{\numberline {۱.۴}بخش دوم}{۵}{}%
+\contentsline {subsection}{\numberline {۱.۳.۲}مدل‌های ماشین در دادگاه}{۴}{}%
+\contentsline {paragraph}{}{۴}{}%
+\contentsline {subsection}{\numberline {۱.۳.۳}زیر بخش اول}{۶}{}%
+\contentsline {section}{\numberline {۱.۴}بخش دوم}{۶}{}%
 \contentsfinish 
