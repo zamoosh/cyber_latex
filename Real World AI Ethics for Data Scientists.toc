@@ -14,5 +14,7 @@
 \contentsline {paragraph}{}{۷}{}%
 \contentsline {paragraph}{}{۸}{}%
 \contentsline {subsection}{\numberline {۱.۳.۴}بیومتریک و تشخصی چهره}{۹}{}%
-\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۰}{}%
+\contentsline {subsection}{\numberline {۱.۳.۵}تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{}%
+\contentsline {paragraph}{}{۱۱}{}%
+\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۱}{}%
 \contentsfinish 
