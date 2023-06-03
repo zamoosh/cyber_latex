@@ -2,22 +2,25 @@
 \contentsline {section}{تشکر نامه}{ii}{}%
 \contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iii}{}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{}%
-\contentsline {section}{\numberline {۱.۱}ماشین‌های اخلاقی}{۱}{}%
-\contentsline {section}{\numberline {۱.۲}علم داده چیست؟}{۳}{}%
+\contentsline {section}{ماشین‌های اخلاقی}{۱}{}%
+\contentsline {section}{علم داده چیست؟}{۳}{}%
 \contentsline {paragraph}{}{۳}{}%
-\contentsline {section}{\numberline {۱.۳}موارد مطالعاتی}{۴}{}%
-\contentsline {subsection}{\numberline {۱.۳.۱}مورد اول اخلاق تحقیق و روش علمی}{۴}{}%
+\contentsline {section}{موارد مطالعاتی}{۴}{}%
+\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{}%
 \contentsline {paragraph}{}{۴}{}%
-\contentsline {subsection}{\numberline {۱.۳.۲}مدل‌های ماشین در دادگاه}{۵}{}%
+\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{}%
 \contentsline {paragraph}{}{۵}{}%
-\contentsline {subsection}{\numberline {۱.۳.۳}رسانه‌های ساختگی و خشونت سیاسی}{۷}{}%
+\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{}%
 \contentsline {paragraph}{}{۷}{}%
 \contentsline {paragraph}{}{۸}{}%
-\contentsline {subsection}{\numberline {۱.۳.۴}بیومتریک و تشخصی چهره}{۹}{}%
-\contentsline {subsection}{\numberline {۱.۳.۵}تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{}%
+\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۹}{}%
+\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{}%
 \contentsline {paragraph}{}{۱۱}{}%
-\contentsline {subsection}{\numberline {۱.۳.۶}بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{}%
+\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{}%
 \contentsline {paragraph}{}{۱۴}{}%
-\contentsline {subsection}{\numberline {۱.۳.۷}هوش مصنوعی و موجودات غیر انسان}{۱۵}{}%
-\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۷}{}%
+\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۵}{}%
+\contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۸}{}%
+\contentsline {section}{مقدمه}{۱۸}{}%
+\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۱۹}{}%
+\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۱۹}{}%
 \contentsfinish 
