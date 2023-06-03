@@ -16,5 +16,8 @@
 \contentsline {subsection}{\numberline {۱.۳.۴}بیومتریک و تشخصی چهره}{۹}{}%
 \contentsline {subsection}{\numberline {۱.۳.۵}تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{}%
 \contentsline {paragraph}{}{۱۱}{}%
-\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۳}{}%
+\contentsline {subsection}{\numberline {۱.۳.۶}بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{}%
+\contentsline {paragraph}{}{۱۴}{}%
+\contentsline {subsection}{\numberline {۱.۳.۷}هوش مصنوعی و حیوانات غیر انسانی}{۱۵}{}%
+\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۵}{}%
 \contentsfinish 

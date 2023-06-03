@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  3 JUN 2023 08:06
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  3 JUN 2023 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,7 +1130,13 @@ LaTeX Info: Redefining \ttfamily on input line 317.
 LaTeX Info: Redefining \rmfamily on input line 320.
 LaTeX Info: Redefining \sffamily on input line 320.
 LaTeX Info: Redefining \ttfamily on input line 320.
- [7] [8]
+ [7]
+Overfull \hbox (15.94167pt too wide) in paragraph at lines 333--340
+[][]\TU/NoorNazanin(1)/m/sl/12 «سینگر» و «فای تسه» به مشکلات ناشی از رسانه های 
+مصنوعی (شبکه‌های اجتماعی دستکاری‌شده)[]
+ []
+
+[8]
 LaTeX Info: Redefining \rmfamily on input line 357.
 LaTeX Info: Redefining \sffamily on input line 357.
 LaTeX Info: Redefining \ttfamily on input line 357.
@@ -1170,7 +1176,24 @@ LaTeX Info: Redefining \ttfamily on input line 409.
 LaTeX Info: Redefining \rmfamily on input line 410.
 LaTeX Info: Redefining \sffamily on input line 410.
 LaTeX Info: Redefining \ttfamily on input line 410.
- [12] [13]
+ [12]
+LaTeX Info: Redefining \rmfamily on input line 416.
+LaTeX Info: Redefining \sffamily on input line 416.
+LaTeX Info: Redefining \ttfamily on input line 416.
+LaTeX Info: Redefining \rmfamily on input line 418.
+LaTeX Info: Redefining \sffamily on input line 418.
+LaTeX Info: Redefining \ttfamily on input line 418.
+ [13]
+Overfull \hbox (4.42995pt too wide) in paragraph at lines 440--442
+[][]\TU/NoorNazanin(1)/m/sl/12 شبکه‌های اجتماعی و شرکت‌های بازی‌سازی طراحی شده‌
+اند تا از طریق تاکتیک‌های هوشمندانه‌ی[]
+ []
+
+[14]
+LaTeX Info: Redefining \rmfamily on input line 448.
+LaTeX Info: Redefining \sffamily on input line 448.
+LaTeX Info: Redefining \ttfamily on input line 448.
+ [15]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1221,8 +1244,7 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-
-(./Real World AI Ethics for Data Scientists.aux
+ (./Real World AI Ethics for Data Scientists.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
@@ -1367,4 +1389,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  83i,6n,98p,2663b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (17 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (19 pages).
