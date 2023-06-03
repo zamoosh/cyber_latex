@@ -18,6 +18,6 @@
 \contentsline {paragraph}{}{۱۱}{}%
 \contentsline {subsection}{\numberline {۱.۳.۶}بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{}%
 \contentsline {paragraph}{}{۱۴}{}%
-\contentsline {subsection}{\numberline {۱.۳.۷}هوش مصنوعی و حیوانات غیر انسانی}{۱۵}{}%
-\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۵}{}%
+\contentsline {subsection}{\numberline {۱.۳.۷}هوش مصنوعی و موجودات غیر انسان}{۱۵}{}%
+\contentsline {section}{\numberline {۱.۴}بخش دوم}{۱۷}{}%
 \contentsfinish 
