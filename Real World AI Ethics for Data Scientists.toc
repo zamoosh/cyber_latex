@@ -1,29 +1,30 @@
 \selectlanguage *{persian}
-\contentsline {section}{تشکر نامه}{iii}{}%
-\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iv}{}%
-\contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{}%
-\contentsline {section}{ماشین‌های اخلاقی}{۱}{}%
-\contentsline {section}{علم داده چیست؟}{۳}{}%
-\contentsline {paragraph}{}{۳}{}%
-\contentsline {section}{موارد مطالعاتی}{۴}{}%
-\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{}%
-\contentsline {paragraph}{}{۴}{}%
-\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{}%
-\contentsline {paragraph}{}{۵}{}%
-\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{}%
-\contentsline {paragraph}{}{۷}{}%
-\contentsline {paragraph}{}{۸}{}%
-\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۹}{}%
-\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{}%
-\contentsline {paragraph}{}{۱۱}{}%
-\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{}%
-\contentsline {paragraph}{}{۱۴}{}%
-\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۵}{}%
-\contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۸}{}%
-\contentsline {section}{مقدمه}{۱۸}{}%
-\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۱۹}{}%
-\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۱۹}{}%
-\contentsline {subsection}{توصیه هایی برای به کارگیری صحیح اصول سودمندی}{۲۲}{}%
-\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۲}{}%
-\contentsline {subsubsection}{از ارزش های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۳}{}%
+\contentsline {section}{تشکر نامه}{iii}{Doc-Start}%
+\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iv}{Doc-Start}%
+\contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{chapter.1}%
+\contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.1}%
+\contentsline {section}{علم داده چیست؟}{۳}{section*.1}%
+\contentsline {paragraph}{}{۳}{paragraph*.2}%
+\contentsline {section}{موارد مطالعاتی}{۴}{paragraph*.2}%
+\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{section*.3}%
+\contentsline {paragraph}{}{۴}{paragraph*.4}%
+\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{paragraph*.4}%
+\contentsline {paragraph}{}{۵}{paragraph*.5}%
+\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{paragraph*.5}%
+\contentsline {paragraph}{}{۷}{paragraph*.6}%
+\contentsline {paragraph}{}{۸}{paragraph*.7}%
+\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۹}{paragraph*.7}%
+\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{paragraph*.7}%
+\contentsline {paragraph}{}{۱۱}{paragraph*.8}%
+\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{paragraph*.8}%
+\contentsline {paragraph}{}{۱۴}{paragraph*.9}%
+\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۵}{paragraph*.9}%
+\contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۸}{chapter.2}%
+\contentsline {section}{مقدمه}{۱۸}{section*.10}%
+\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۱۹}{section*.10}%
+\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۱۹}{section*.11}%
+\contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۲}{section*.11}%
+\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۲}{section*.12}%
+\contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۳}{section*.12}%
+\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۵}{section*.12}%
 \contentsfinish 
