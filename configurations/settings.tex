@@ -1,0 +1,37 @@
+%! Author = zamoosh
+%! Date = 6/4/23
+
+\geometry{a5paper}
+
+\fontsize{8pt}{8pt}\selectfont
+
+% \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} % Adds dots between section titles and page numbers
+
+\setmainlanguage{persian}
+\setotherlanguage{english}
+
+\setmainfont{NoorNazanin}[Script=Arabic,Scale=1.0]
+\newfontfamily\englishfont{Times New Roman}
+\setmathfont{NotoSansMath-Regular}
+
+
+\titleformat{\chapter}[display]
+{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{20pt}
+
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+\dottedcontents{chapter}[1.5em]{\bfseries}{1.5em}{1pc}
+\dottedcontents{section}[3.8em]{}{2.2em}{1pc}
+
+\setlength\parskip{0.3em}
+
+% Set line spacing to 1.6 (one-and-a-half spacing)
+\setstretch{1.4}
+
+
+\newdateformat{mydate}{\twodigit{\THEDAY}{ }\shortmonthname[\THEMONTH], \THEYEAR}
+
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
