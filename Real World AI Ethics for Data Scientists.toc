@@ -1,30 +1,34 @@
 \selectlanguage *{persian}
-\contentsline {section}{تشکر نامه}{iii}{Doc-Start}%
-\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{iv}{Doc-Start}%
+\contentsline {section}{تشکر نامه}{iii}{section*.1}%
+\contentsline {section}{توضحات لازم}{iv}{section*.2}%
+\contentsline {paragraph}{}{iv}{paragraph*.3}%
+\contentsline {paragraph}{}{iv}{paragraph*.4}%
+\contentsline {paragraph}{}{iv}{paragraph*.5}%
+\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{v}{section*.6}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{chapter.1}%
-\contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.1}%
-\contentsline {section}{علم داده چیست؟}{۳}{section*.1}%
-\contentsline {paragraph}{}{۳}{paragraph*.2}%
-\contentsline {section}{موارد مطالعاتی}{۴}{paragraph*.2}%
-\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{section*.3}%
-\contentsline {paragraph}{}{۴}{paragraph*.4}%
-\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{paragraph*.4}%
-\contentsline {paragraph}{}{۵}{paragraph*.5}%
-\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{paragraph*.5}%
-\contentsline {paragraph}{}{۷}{paragraph*.6}%
-\contentsline {paragraph}{}{۸}{paragraph*.7}%
-\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۹}{paragraph*.7}%
-\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{paragraph*.7}%
-\contentsline {paragraph}{}{۱۱}{paragraph*.8}%
-\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{paragraph*.8}%
-\contentsline {paragraph}{}{۱۴}{paragraph*.9}%
-\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۵}{paragraph*.9}%
-\contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۸}{chapter.2}%
-\contentsline {section}{مقدمه}{۱۸}{section*.10}%
-\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۱۹}{section*.10}%
-\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۱۹}{section*.11}%
-\contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۲}{section*.11}%
-\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۲}{section*.12}%
-\contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۳}{section*.12}%
-\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۵}{section*.12}%
+\contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.7}%
+\contentsline {section}{علم داده چیست؟}{۳}{section*.8}%
+\contentsline {paragraph}{}{۳}{paragraph*.9}%
+\contentsline {section}{موارد مطالعاتی}{۴}{section*.10}%
+\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{section*.11}%
+\contentsline {paragraph}{}{۴}{paragraph*.12}%
+\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{paragraph*.12}%
+\contentsline {paragraph}{}{۵}{paragraph*.13}%
+\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{paragraph*.13}%
+\contentsline {paragraph}{}{۷}{paragraph*.14}%
+\contentsline {paragraph}{}{۸}{paragraph*.15}%
+\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۱۰}{paragraph*.15}%
+\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{paragraph*.15}%
+\contentsline {paragraph}{}{۱۱}{paragraph*.16}%
+\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{paragraph*.16}%
+\contentsline {paragraph}{}{۱۴}{paragraph*.17}%
+\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۶}{paragraph*.17}%
+\contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۹}{chapter.2}%
+\contentsline {section}{مقدمه}{۱۹}{section*.18}%
+\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۲۰}{section*.19}%
+\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۲۰}{section*.20}%
+\contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۳}{section*.20}%
+\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۳}{section*.21}%
+\contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۵}{section*.21}%
+\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.21}%
 \contentsfinish 
