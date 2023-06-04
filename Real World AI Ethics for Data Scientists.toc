@@ -6,29 +6,31 @@
 \contentsline {paragraph}{}{iv}{paragraph*.5}%
 \contentsline {section}{فهرست همکاران و مشارکت کنندگان}{v}{section*.6}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{chapter.1}%
-\contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.7}%
-\contentsline {section}{علم داده چیست؟}{۳}{section*.8}%
-\contentsline {paragraph}{}{۳}{paragraph*.9}%
-\contentsline {section}{موارد مطالعاتی}{۴}{section*.10}%
-\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{section*.11}%
-\contentsline {paragraph}{}{۴}{paragraph*.12}%
-\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{paragraph*.12}%
-\contentsline {paragraph}{}{۵}{paragraph*.13}%
-\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{paragraph*.13}%
-\contentsline {paragraph}{}{۷}{paragraph*.14}%
-\contentsline {paragraph}{}{۸}{paragraph*.15}%
-\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۱۰}{paragraph*.15}%
-\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{paragraph*.15}%
-\contentsline {paragraph}{}{۱۱}{paragraph*.16}%
-\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{paragraph*.16}%
-\contentsline {paragraph}{}{۱۴}{paragraph*.17}%
-\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۶}{paragraph*.17}%
+\contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.8}%
+\contentsline {section}{علم داده چیست؟}{۳}{section*.10}%
+\contentsline {paragraph}{}{۳}{paragraph*.11}%
+\contentsline {section}{موارد مطالعاتی}{۴}{section*.13}%
+\contentsline {subsection}{مورد۱ - اخلاق تحقیق و روش علمی}{۴}{section*.14}%
+\contentsline {paragraph}{}{۴}{paragraph*.15}%
+\contentsline {subsection}{مورد۲ - مدل‌های ماشین در دادگاه}{۵}{section*.16}%
+\contentsline {paragraph}{}{۵}{paragraph*.17}%
+\contentsline {subsection}{مورد۳ - رسانه‌های ساختگی و خشونت سیاسی}{۷}{section*.18}%
+\contentsline {paragraph}{}{۷}{paragraph*.19}%
+\contentsline {paragraph}{}{۸}{paragraph*.20}%
+\contentsline {subsection}{مورد۴ - بیومتریک و تشخصی چهره}{۱۰}{section*.21}%
+\contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{section*.22}%
+\contentsline {paragraph}{}{۱۱}{paragraph*.23}%
+\contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۳}{section*.24}%
+\contentsline {paragraph}{}{۱۴}{paragraph*.25}%
+\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۶}{section*.26}%
 \contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۹}{chapter.2}%
-\contentsline {section}{مقدمه}{۱۹}{section*.18}%
-\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۲۰}{section*.19}%
-\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۲۰}{section*.20}%
-\contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۳}{section*.20}%
-\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۳}{section*.21}%
-\contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۵}{section*.21}%
-\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.21}%
+\contentsline {section}{مقدمه}{۱۹}{section*.28}%
+\contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۲۰}{section*.29}%
+\contentsline {subsection}{اعتراضات رایج به سودگرایی}{۲۱}{section*.30}%
+\contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۳}{section*.31}%
+\contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۳}{section*.32}%
+\contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۵}{section*.33}%
+\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.34}%
+\contentsline {section}{اخلاق دئونتولوژیک}{۲۷}{section*.35}%
+\contentsline {paragraph}{}{۲۷}{paragraph*.36}%
 \contentsfinish 
