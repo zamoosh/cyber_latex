@@ -35,4 +35,8 @@
 \contentsline {paragraph}{}{۲۷}{paragraph*.36}%
 \contentsline {section}{اخلاق فضیلت}{۲۹}{section*.37}%
 \contentsline {paragraph}{}{۲۹}{paragraph*.38}%
+\contentsline {section}{اخلاق آفریقایی}{۳۴}{section*.39}%
+\contentsline {paragraph}{}{۳۴}{paragraph*.40}%
+\contentsline {section}{اخلاق بودایی}{۳۵}{section*.41}%
+\contentsline {paragraph}{}{۳۵}{paragraph*.42}%
 \contentsfinish 
