@@ -33,4 +33,6 @@
 \contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.34}%
 \contentsline {section}{اخلاق دئونتولوژیک}{۲۷}{section*.35}%
 \contentsline {paragraph}{}{۲۷}{paragraph*.36}%
+\contentsline {section}{اخلاق فضیلت}{۲۹}{section*.37}%
+\contentsline {paragraph}{}{۲۹}{paragraph*.38}%
 \contentsfinish 
