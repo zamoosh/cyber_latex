@@ -41,4 +41,5 @@
 \contentsline {paragraph}{}{۳۵}{paragraph*.42}%
 \contentsline {section}{اخلاق بومی و فطری: کنش‌ها به مثابه تعامل}{۳۷}{section*.43}%
 \contentsline {paragraph}{}{۳۷}{paragraph*.44}%
+\contentsline {chapter}{\numberline {۳}اخلاق تحقیق و روش علمی}{۴۰}{chapter.3}%
 \contentsfinish 

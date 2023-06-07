@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  7 JUN 2023 11:17
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  7 JUN 2023 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1668,6 +1668,11 @@ Overfull \hbox (11.25pt too wide) detected at line 42
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۳۷[][][][][]
  []
 
+
+Overfull \hbox (10.35352pt too wide) detected at line 44
+ [][][][][]\TU/NoorNazanin(2)/b/n/12 ۴۰[][][][][]
+ []
+
 )
 \tf@toc=\write6
 \openout6 = `"Real World AI Ethics for Data Scientists.toc"'.
@@ -1894,7 +1899,14 @@ LaTeX Info: Redefining \ttfamily on input line 77.
 LaTeX Info: Redefining \rmfamily on input line 383.
 LaTeX Info: Redefining \sffamily on input line 383.
 LaTeX Info: Redefining \ttfamily on input line 383.
-) [39]
+) (./content/chapters/3 اخلاق تحقیق و روش علمی.tex [39]
+فصل ۳.
+LaTeX Info: Redefining \rmfamily on input line 13.
+LaTeX Info: Redefining \sffamily on input line 13.
+LaTeX Info: Redefining \ttfamily on input line 13.
+) [40
+
+]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2117,6 +2129,7 @@ content/sections/توضحات لازم.tex
 content/sections/فهرست همکاران و مشارکت کنندگان.tex
 content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 content/chapters/2 مقدمه ای بر رویکردهای اخلاقی در علم داده.tex
+content/chapters/3 اخلاق تحقیق و روش علمی.tex
  ***********
 
 
@@ -2131,12 +2144,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 23874 strings out of 478108
- 435733 string characters out of 5852087
- 1042345 words of memory out of 5000000
- 44023 multiletter control sequences out of 15000+600000
+ 23883 strings out of 478108
+ 436116 string characters out of 5852087
+ 1042629 words of memory out of 5000000
+ 44029 multiletter control sequences out of 15000+600000
  475498 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  89i,6n,115p,2663b,3146s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (45 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (46 pages).
