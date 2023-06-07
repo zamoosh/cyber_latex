@@ -30,7 +30,7 @@
 \contentsline {subsection}{توصیه‌هایی برای به کارگیری صحیح اصول سودمندی}{۲۳}{section*.31}%
 \contentsline {subsubsection}{گسترده تر و طولانی تر فکر کنید}{۲۳}{section*.32}%
 \contentsline {subsubsection}{از ارزش‌های مورد انتظار برای تصمیم گیری استفاده کنید}{۲۵}{section*.33}%
-\contentsline {subsubsection}{در انتخاب پروژه های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.34}%
+\contentsline {subsubsection}{در انتخاب پروژه‌های خیریه، پروژه‌های (موارد) موثر را انتخاب کنید}{۲۶}{section*.34}%
 \contentsline {section}{اخلاق دئونتولوژیک}{۲۷}{section*.35}%
 \contentsline {paragraph}{}{۲۷}{paragraph*.36}%
 \contentsline {section}{اخلاق فضیلت}{۲۹}{section*.37}%
@@ -42,4 +42,6 @@
 \contentsline {section}{اخلاق بومی و فطری: کنش‌ها به مثابه تعامل}{۳۷}{section*.43}%
 \contentsline {paragraph}{}{۳۷}{paragraph*.44}%
 \contentsline {chapter}{\numberline {۳}اخلاق تحقیق و روش علمی}{۴۰}{chapter.3}%
+\contentsline {section}{"یک ترفند ساده": آزمایشگاه غذا و برند کورنل}{۴۰}{section*.46}%
+\contentsline {paragraph}{}{۴۰}{paragraph*.47}%
 \contentsfinish 
