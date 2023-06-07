@@ -39,4 +39,6 @@
 \contentsline {paragraph}{}{۳۴}{paragraph*.40}%
 \contentsline {section}{اخلاق بودایی}{۳۵}{section*.41}%
 \contentsline {paragraph}{}{۳۵}{paragraph*.42}%
+\contentsline {section}{اخلاق بومی و فطری: کنش‌ها به مثابه تعامل}{۳۷}{section*.43}%
+\contentsline {paragraph}{}{۳۷}{paragraph*.44}%
 \contentsfinish 
