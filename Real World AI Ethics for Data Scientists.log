@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 13:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 17:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2819,7 +2819,77 @@ LaTeX Info: Redefining \ttfamily on input line 128.
 LaTeX Info: Redefining \rmfamily on input line 128.
 LaTeX Info: Redefining \sffamily on input line 128.
 LaTeX Info: Redefining \ttfamily on input line 128.
- [58]) [59]
+ [58] [59]
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 189.
+LaTeX Info: Redefining \sffamily on input line 189.
+LaTeX Info: Redefining \ttfamily on input line 189.
+[60] [61]
+LaTeX Info: Redefining \rmfamily on input line 214.
+LaTeX Info: Redefining \sffamily on input line 214.
+LaTeX Info: Redefining \ttfamily on input line 214.
+LaTeX Info: Redefining \rmfamily on input line 214.
+LaTeX Info: Redefining \sffamily on input line 214.
+LaTeX Info: Redefining \ttfamily on input line 214.
+LaTeX Info: Redefining \rmfamily on input line 215.
+LaTeX Info: Redefining \sffamily on input line 215.
+LaTeX Info: Redefining \ttfamily on input line 215.
+LaTeX Info: Redefining \rmfamily on input line 216.
+LaTeX Info: Redefining \sffamily on input line 216.
+LaTeX Info: Redefining \ttfamily on input line 216.
+LaTeX Info: Redefining \rmfamily on input line 216.
+LaTeX Info: Redefining \sffamily on input line 216.
+LaTeX Info: Redefining \ttfamily on input line 216.
+LaTeX Info: Redefining \rmfamily on input line 216.
+LaTeX Info: Redefining \sffamily on input line 216.
+LaTeX Info: Redefining \ttfamily on input line 216.
+LaTeX Info: Redefining \rmfamily on input line 217.
+LaTeX Info: Redefining \sffamily on input line 217.
+LaTeX Info: Redefining \ttfamily on input line 217.
+LaTeX Info: Redefining \rmfamily on input line 219.
+LaTeX Info: Redefining \sffamily on input line 219.
+LaTeX Info: Redefining \ttfamily on input line 219.
+LaTeX Info: Redefining \rmfamily on input line 219.
+LaTeX Info: Redefining \sffamily on input line 219.
+LaTeX Info: Redefining \ttfamily on input line 219.
+LaTeX Info: Redefining \rmfamily on input line 220.
+LaTeX Info: Redefining \sffamily on input line 220.
+LaTeX Info: Redefining \ttfamily on input line 220.
+LaTeX Info: Redefining \rmfamily on input line 222.
+LaTeX Info: Redefining \sffamily on input line 222.
+LaTeX Info: Redefining \ttfamily on input line 222.
+LaTeX Info: Redefining \rmfamily on input line 222.
+LaTeX Info: Redefining \sffamily on input line 222.
+LaTeX Info: Redefining \ttfamily on input line 222.
+ [62]
+LaTeX Info: Redefining \rmfamily on input line 224.
+LaTeX Info: Redefining \sffamily on input line 224.
+LaTeX Info: Redefining \ttfamily on input line 224.
+LaTeX Info: Redefining \rmfamily on input line 225.
+LaTeX Info: Redefining \sffamily on input line 225.
+LaTeX Info: Redefining \ttfamily on input line 225.
+LaTeX Info: Redefining \rmfamily on input line 226.
+LaTeX Info: Redefining \sffamily on input line 226.
+LaTeX Info: Redefining \ttfamily on input line 226.
+LaTeX Info: Redefining \rmfamily on input line 227.
+LaTeX Info: Redefining \sffamily on input line 227.
+LaTeX Info: Redefining \ttfamily on input line 227.
+LaTeX Info: Redefining \rmfamily on input line 228.
+LaTeX Info: Redefining \sffamily on input line 228.
+LaTeX Info: Redefining \ttfamily on input line 228.
+LaTeX Info: Redefining \rmfamily on input line 229.
+LaTeX Info: Redefining \sffamily on input line 229.
+LaTeX Info: Redefining \ttfamily on input line 229.
+LaTeX Info: Redefining \rmfamily on input line 231.
+LaTeX Info: Redefining \sffamily on input line 231.
+LaTeX Info: Redefining \ttfamily on input line 231.
+LaTeX Info: Redefining \rmfamily on input line 233.
+LaTeX Info: Redefining \sffamily on input line 233.
+LaTeX Info: Redefining \ttfamily on input line 233.
+ [63]) [64]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3099,12 +3169,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40531 strings out of 478108
- 822855 string characters out of 5852087
- 1447673 words of memory out of 5000000
- 60351 multiletter control sequences out of 15000+600000
+ 40537 strings out of 478108
+ 822943 string characters out of 5852087
+ 1448725 words of memory out of 5000000
+ 60357 multiletter control sequences out of 15000+600000
  475498 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (65 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (70 pages).
