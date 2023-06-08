@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 03:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2123,6 +2123,26 @@ Overfull \hbox (11.25pt too wide) detected at line 38
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۰[][][][][]
  []
 
+
+Overfull \hbox (12.28125pt too wide) detected at line 40
+ [][][][][]\TU/NoorNazanin(2)/b/n/12 ۵۲[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 41
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۳[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 42
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۵[][][][][]
+ []
+
+
+Overfull \hbox (10.82813pt too wide) detected at line 43
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۶[][][][][]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `"Real World AI Ethics for Data Scientists.toc"'.
@@ -2132,14 +2152,15 @@ Overfull \hbox (11.25pt too wide) detected at line 38
 LaTeX Font Warning: Font shape `TU/NoorNazanin(2)/m/sl' undefined
 (Font)              using `TU/NoorNazanin(2)/m/n' instead on input line 19.
 
-[2] (./content/sections/تشکر نامه.tex
+[2] (./content/before chapters/تشکر نامه.tex
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
 (Font)              scaled to size 12.0pt on input line 15.
- [3]) (./content/sections/توضحات لازم.tex
+ [3])
+(./content/before chapters/توضحات لازم.tex
 LaTeX Info: Redefining \rmfamily on input line 10.
 LaTeX Info: Redefining \sffamily on input line 10.
 LaTeX Info: Redefining \ttfamily on input line 10.
@@ -2154,7 +2175,7 @@ LaTeX Info: Redefining \ttfamily on input line 18.
 LaTeX Info: Redefining \rmfamily on input line 25.
 LaTeX Info: Redefining \sffamily on input line 25.
 LaTeX Info: Redefining \ttfamily on input line 25.
-[4]) (./content/sections/فهرست همکاران و مشارکت کنندگان.tex [5])
+[4]) (./content/before chapters/فهرست همکاران و مشارکت کنندگان.tex [5])
 (./content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 فصل ۱.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -2654,7 +2675,151 @@ Overfull \hbox (13.42604pt too wide) in paragraph at lines 239--243
 LaTeX Info: Redefining \rmfamily on input line 248.
 LaTeX Info: Redefining \sffamily on input line 248.
 LaTeX Info: Redefining \ttfamily on input line 248.
-) [51]
+) (./content/chapters/4 مدل‌های ماشین در دادگاه.tex [51]
+فصل ۴.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--16
+[][]
+ []
+
+[52
+
+] [53]
+LaTeX Info: Redefining \rmfamily on input line 50.
+LaTeX Info: Redefining \sffamily on input line 50.
+LaTeX Info: Redefining \ttfamily on input line 50.
+LaTeX Info: Redefining \rmfamily on input line 57.
+LaTeX Info: Redefining \sffamily on input line 57.
+LaTeX Info: Redefining \ttfamily on input line 57.
+LaTeX Info: Redefining \rmfamily on input line 61.
+LaTeX Info: Redefining \sffamily on input line 61.
+LaTeX Info: Redefining \ttfamily on input line 61.
+ [54]
+LaTeX Info: Redefining \rmfamily on input line 70.
+LaTeX Info: Redefining \sffamily on input line 70.
+LaTeX Info: Redefining \ttfamily on input line 70.
+LaTeX Info: Redefining \rmfamily on input line 70.
+LaTeX Info: Redefining \sffamily on input line 70.
+LaTeX Info: Redefining \ttfamily on input line 70.
+LaTeX Info: Redefining \rmfamily on input line 73.
+LaTeX Info: Redefining \sffamily on input line 73.
+LaTeX Info: Redefining \ttfamily on input line 73.
+LaTeX Info: Redefining \rmfamily on input line 84.
+LaTeX Info: Redefining \sffamily on input line 84.
+LaTeX Info: Redefining \ttfamily on input line 84.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--88
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--88
+[][]
+ []
+
+[55]
+LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \sffamily on input line 95.
+LaTeX Info: Redefining \ttfamily on input line 95.
+LaTeX Info: Redefining \rmfamily on input line 98.
+LaTeX Info: Redefining \sffamily on input line 98.
+LaTeX Info: Redefining \ttfamily on input line 98.
+LaTeX Info: Redefining \rmfamily on input line 99.
+LaTeX Info: Redefining \sffamily on input line 99.
+LaTeX Info: Redefining \ttfamily on input line 99.
+LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \sffamily on input line 101.
+LaTeX Info: Redefining \ttfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \sffamily on input line 101.
+LaTeX Info: Redefining \ttfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 102.
+LaTeX Info: Redefining \sffamily on input line 102.
+LaTeX Info: Redefining \ttfamily on input line 102.
+LaTeX Info: Redefining \rmfamily on input line 103.
+LaTeX Info: Redefining \sffamily on input line 103.
+LaTeX Info: Redefining \ttfamily on input line 103.
+LaTeX Info: Redefining \rmfamily on input line 104.
+LaTeX Info: Redefining \sffamily on input line 104.
+LaTeX Info: Redefining \ttfamily on input line 104.
+LaTeX Info: Redefining \rmfamily on input line 105.
+LaTeX Info: Redefining \sffamily on input line 105.
+LaTeX Info: Redefining \ttfamily on input line 105.
+LaTeX Info: Redefining \rmfamily on input line 107.
+LaTeX Info: Redefining \sffamily on input line 107.
+LaTeX Info: Redefining \ttfamily on input line 107.
+LaTeX Info: Redefining \rmfamily on input line 108.
+LaTeX Info: Redefining \sffamily on input line 108.
+LaTeX Info: Redefining \ttfamily on input line 108.
+LaTeX Info: Redefining \rmfamily on input line 110.
+LaTeX Info: Redefining \sffamily on input line 110.
+LaTeX Info: Redefining \ttfamily on input line 110.
+LaTeX Info: Redefining \rmfamily on input line 110.
+LaTeX Info: Redefining \sffamily on input line 110.
+LaTeX Info: Redefining \ttfamily on input line 110.
+LaTeX Info: Redefining \rmfamily on input line 110.
+LaTeX Info: Redefining \sffamily on input line 110.
+LaTeX Info: Redefining \ttfamily on input line 110.
+LaTeX Info: Redefining \rmfamily on input line 112.
+LaTeX Info: Redefining \sffamily on input line 112.
+LaTeX Info: Redefining \ttfamily on input line 112.
+ [56]
+LaTeX Info: Redefining \rmfamily on input line 114.
+LaTeX Info: Redefining \sffamily on input line 114.
+LaTeX Info: Redefining \ttfamily on input line 114.
+LaTeX Info: Redefining \rmfamily on input line 114.
+LaTeX Info: Redefining \sffamily on input line 114.
+LaTeX Info: Redefining \ttfamily on input line 114.
+LaTeX Info: Redefining \rmfamily on input line 114.
+LaTeX Info: Redefining \sffamily on input line 114.
+LaTeX Info: Redefining \ttfamily on input line 114.
+LaTeX Info: Redefining \rmfamily on input line 115.
+LaTeX Info: Redefining \sffamily on input line 115.
+LaTeX Info: Redefining \ttfamily on input line 115.
+LaTeX Info: Redefining \rmfamily on input line 115.
+LaTeX Info: Redefining \sffamily on input line 115.
+LaTeX Info: Redefining \ttfamily on input line 115.
+LaTeX Info: Redefining \rmfamily on input line 116.
+LaTeX Info: Redefining \sffamily on input line 116.
+LaTeX Info: Redefining \ttfamily on input line 116.
+LaTeX Info: Redefining \rmfamily on input line 117.
+LaTeX Info: Redefining \sffamily on input line 117.
+LaTeX Info: Redefining \ttfamily on input line 117.
+ [57]
+LaTeX Info: Redefining \rmfamily on input line 119.
+LaTeX Info: Redefining \sffamily on input line 119.
+LaTeX Info: Redefining \ttfamily on input line 119.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+LaTeX Info: Redefining \rmfamily on input line 122.
+LaTeX Info: Redefining \sffamily on input line 122.
+LaTeX Info: Redefining \ttfamily on input line 122.
+LaTeX Info: Redefining \rmfamily on input line 124.
+LaTeX Info: Redefining \sffamily on input line 124.
+LaTeX Info: Redefining \ttfamily on input line 124.
+LaTeX Info: Redefining \rmfamily on input line 124.
+LaTeX Info: Redefining \sffamily on input line 124.
+LaTeX Info: Redefining \ttfamily on input line 124.
+LaTeX Info: Redefining \rmfamily on input line 125.
+LaTeX Info: Redefining \sffamily on input line 125.
+LaTeX Info: Redefining \ttfamily on input line 125.
+LaTeX Info: Redefining \rmfamily on input line 128.
+LaTeX Info: Redefining \sffamily on input line 128.
+LaTeX Info: Redefining \ttfamily on input line 128.
+LaTeX Info: Redefining \rmfamily on input line 128.
+LaTeX Info: Redefining \sffamily on input line 128.
+LaTeX Info: Redefining \ttfamily on input line 128.
+LaTeX Info: Redefining \rmfamily on input line 128.
+LaTeX Info: Redefining \sffamily on input line 128.
+LaTeX Info: Redefining \ttfamily on input line 128.
+LaTeX Info: Redefining \rmfamily on input line 128.
+LaTeX Info: Redefining \sffamily on input line 128.
+LaTeX Info: Redefining \ttfamily on input line 128.
+ [58]) [59]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2913,12 +3078,13 @@ gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
 configurations/book title.tex
 omlztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
   ot1ptm.fd    2001/06/04 font definitions for OT1/ptm.
-content/sections/تشکر نامه.tex
-content/sections/توضحات لازم.tex
-content/sections/فهرست همکاران و مشارکت کنندگان.tex
+content/before chapters/تشکر نامه.tex
+content/before chapters/توضحات لازم.tex
+content/before chapters/فهرست همکاران و مشارکت کنندگان.tex
 content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 content/chapters/2 مقدمه ای بر رویکردهای اخلاقی در علم داده.tex
 content/chapters/3 اخلاق تحقیق و روش علمی.tex
+content/chapters/4 مدل‌های ماشین در دادگاه.tex
  ***********
 
 
@@ -2933,12 +3099,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40518 strings out of 478108
- 822235 string characters out of 5852087
- 1445579 words of memory out of 5000000
- 60341 multiletter control sequences out of 15000+600000
+ 40531 strings out of 478108
+ 822855 string characters out of 5852087
+ 1447673 words of memory out of 5000000
+ 60351 multiletter control sequences out of 15000+600000
  475498 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (57 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (65 pages).

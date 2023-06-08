@@ -37,4 +37,8 @@
 \contentsline {section}{"یک ترفند ساده": آزمایشگاه غذا و برند کورنل}{۴۰}{section*.36}%
 \contentsline {section}{تفسیر}{۵۰}{section*.39}%
 \contentsline {subsection}{اخلاق سودگرا}{۵۰}{section*.40}%
+\contentsline {chapter}{\numberline {۴}مدل‌های ماشین در دادگاه}{۵۲}{chapter.4}%
+\contentsline {section}{محاکمه‌های شفاهی نیکلاس هیلاری}{۵۳}{section*.42}%
+\contentsline {section}{خطرناک ترین دادستان نیویورک}{۵۵}{section*.43}%
+\contentsline {section}{شواهد DNA}{۵۶}{section*.44}%
 \contentsfinish 
