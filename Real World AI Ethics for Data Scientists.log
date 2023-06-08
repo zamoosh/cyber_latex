@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  7 JUN 2023 23:43
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 03:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2035,87 +2035,92 @@ Overfull \hbox (5.625pt too wide) detected at line 10
  []
 
 
-Overfull \hbox (5.625pt too wide) detected at line 12
+Overfull \hbox (5.625pt too wide) detected at line 11
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۴[][][][][]
  []
 
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 13.
+ 12.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 13.
+(Font)              scaled to size 12.00128pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.40088pt on input line 13.
+(Font)              scaled to size 8.40088pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 13.
+(Font)              scaled to size 6.00064pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 13.
+(Font)              scaled to size 11.99872pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.3991pt on input line 13.
+(Font)              scaled to size 8.3991pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 13.
+(Font)              scaled to size 5.99936pt on input line 12.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-3.
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 
-Overfull \hbox (9.96094pt too wide) detected at line 26
+Overfull \hbox (9.96094pt too wide) detected at line 22
  [][][][][]\TU/NoorNazanin(2)/b/n/12 ۱۹[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 27
+Overfull \hbox (11.25pt too wide) detected at line 23
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۱۹[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 28
+Overfull \hbox (11.25pt too wide) detected at line 24
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۲۰[][][][][]
  []
 
 [1]
-Overfull \hbox (11.25pt too wide) detected at line 34
+Overfull \hbox (11.25pt too wide) detected at line 31
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۲۷[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 36
+Overfull \hbox (11.25pt too wide) detected at line 32
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۲۹[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 38
+Overfull \hbox (11.25pt too wide) detected at line 33
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۳۴[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 40
+Overfull \hbox (11.25pt too wide) detected at line 34
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۳۵[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 42
+Overfull \hbox (11.25pt too wide) detected at line 35
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۳۷[][][][][]
  []
 
 
-Overfull \hbox (10.35352pt too wide) detected at line 44
+Overfull \hbox (10.35352pt too wide) detected at line 36
  [][][][][]\TU/NoorNazanin(2)/b/n/12 ۴۰[][][][][]
  []
 
 
-Overfull \hbox (11.25pt too wide) detected at line 45
+Overfull \hbox (11.25pt too wide) detected at line 37
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۴۰[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 38
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۰[][][][][]
  []
 
 )
@@ -2129,36 +2134,42 @@ LaTeX Font Warning: Font shape `TU/NoorNazanin(2)/m/sl' undefined
 
 [2] (./content/sections/تشکر نامه.tex
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 5.
+(Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 5.
+(Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 12.
+(Font)              scaled to size 12.0pt on input line 15.
  [3]) (./content/sections/توضحات لازم.tex
-LaTeX Info: Redefining \rmfamily on input line 9.
-LaTeX Info: Redefining \sffamily on input line 9.
-LaTeX Info: Redefining \ttfamily on input line 9.
+LaTeX Info: Redefining \rmfamily on input line 10.
+LaTeX Info: Redefining \sffamily on input line 10.
+LaTeX Info: Redefining \ttfamily on input line 10.
 
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 9.
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 10.
 
-LaTeX Info: Redefining \rmfamily on input line 17.
-LaTeX Info: Redefining \sffamily on input line 17.
-LaTeX Info: Redefining \ttfamily on input line 17.
-LaTeX Info: Redefining \rmfamily on input line 24.
-LaTeX Info: Redefining \sffamily on input line 24.
-LaTeX Info: Redefining \ttfamily on input line 24.
+LaTeX Info: Redefining \rmfamily on input line 18.
+LaTeX Info: Redefining \sffamily on input line 18.
+LaTeX Info: Redefining \ttfamily on input line 18.
+LaTeX Info: Redefining \rmfamily on input line 25.
+LaTeX Info: Redefining \sffamily on input line 25.
+LaTeX Info: Redefining \ttfamily on input line 25.
 [4]) (./content/sections/فهرست همکاران و مشارکت کنندگان.tex [5])
 (./content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 فصل ۱.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 7.
+(Font)              scaled to size 20.74pt on input line 8.
 [1
 
 
 
 ] [2]
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
 LaTeX Info: Redefining \rmfamily on input line 53.
 LaTeX Info: Redefining \sffamily on input line 53.
 LaTeX Info: Redefining \ttfamily on input line 53.
@@ -2168,140 +2179,195 @@ LaTeX Info: Redefining \ttfamily on input line 54.
 LaTeX Info: Redefining \rmfamily on input line 54.
 LaTeX Info: Redefining \sffamily on input line 54.
 LaTeX Info: Redefining \ttfamily on input line 54.
-LaTeX Info: Redefining \rmfamily on input line 55.
-LaTeX Info: Redefining \sffamily on input line 55.
-LaTeX Info: Redefining \ttfamily on input line 55.
-LaTeX Info: Redefining \rmfamily on input line 55.
-LaTeX Info: Redefining \sffamily on input line 55.
-LaTeX Info: Redefining \ttfamily on input line 55.
-LaTeX Info: Redefining \rmfamily on input line 55.
-LaTeX Info: Redefining \sffamily on input line 55.
-LaTeX Info: Redefining \ttfamily on input line 55.
-LaTeX Info: Redefining \rmfamily on input line 57.
-LaTeX Info: Redefining \sffamily on input line 57.
-LaTeX Info: Redefining \ttfamily on input line 57.
+LaTeX Info: Redefining \rmfamily on input line 54.
+LaTeX Info: Redefining \sffamily on input line 54.
+LaTeX Info: Redefining \ttfamily on input line 54.
+LaTeX Info: Redefining \rmfamily on input line 56.
+LaTeX Info: Redefining \sffamily on input line 56.
+LaTeX Info: Redefining \ttfamily on input line 56.
  [3]
-LaTeX Info: Redefining \rmfamily on input line 71.
-LaTeX Info: Redefining \sffamily on input line 71.
-LaTeX Info: Redefining \ttfamily on input line 71.
+LaTeX Info: Redefining \rmfamily on input line 70.
+LaTeX Info: Redefining \sffamily on input line 70.
+LaTeX Info: Redefining \ttfamily on input line 70.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--78
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--78
+[][]
+ []
+
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 88.
- [4]
-LaTeX Info: Redefining \rmfamily on input line 96.
-LaTeX Info: Redefining \sffamily on input line 96.
-LaTeX Info: Redefining \ttfamily on input line 96.
-LaTeX Info: Redefining \rmfamily on input line 96.
-LaTeX Info: Redefining \sffamily on input line 96.
-LaTeX Info: Redefining \ttfamily on input line 96.
-LaTeX Info: Redefining \rmfamily on input line 98.
-LaTeX Info: Redefining \sffamily on input line 98.
-LaTeX Info: Redefining \ttfamily on input line 98.
-LaTeX Info: Redefining \rmfamily on input line 98.
-LaTeX Info: Redefining \sffamily on input line 98.
-LaTeX Info: Redefining \ttfamily on input line 98.
-LaTeX Info: Redefining \rmfamily on input line 98.
-LaTeX Info: Redefining \sffamily on input line 98.
-LaTeX Info: Redefining \ttfamily on input line 98.
+(Font)              scaled to size 14.4pt on input line 87.
+[4]
+LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \sffamily on input line 95.
+LaTeX Info: Redefining \ttfamily on input line 95.
+LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \sffamily on input line 95.
+LaTeX Info: Redefining \ttfamily on input line 95.
+LaTeX Info: Redefining \rmfamily on input line 97.
+LaTeX Info: Redefining \sffamily on input line 97.
+LaTeX Info: Redefining \ttfamily on input line 97.
+LaTeX Info: Redefining \rmfamily on input line 97.
+LaTeX Info: Redefining \sffamily on input line 97.
+LaTeX Info: Redefining \ttfamily on input line 97.
+LaTeX Info: Redefining \rmfamily on input line 97.
+LaTeX Info: Redefining \sffamily on input line 97.
+LaTeX Info: Redefining \ttfamily on input line 97.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
+[][]
+ []
+
 LaTeX Info: Redefining \rmfamily on input line 111.
 LaTeX Info: Redefining \sffamily on input line 111.
 LaTeX Info: Redefining \ttfamily on input line 111.
-LaTeX Info: Redefining \rmfamily on input line 115.
-LaTeX Info: Redefining \sffamily on input line 115.
-LaTeX Info: Redefining \ttfamily on input line 115.
-LaTeX Info: Redefining \rmfamily on input line 118.
-LaTeX Info: Redefining \sffamily on input line 118.
-LaTeX Info: Redefining \ttfamily on input line 118.
-LaTeX Info: Redefining \rmfamily on input line 118.
-LaTeX Info: Redefining \sffamily on input line 118.
-LaTeX Info: Redefining \ttfamily on input line 118.
-LaTeX Info: Redefining \rmfamily on input line 120.
-LaTeX Info: Redefining \sffamily on input line 120.
-LaTeX Info: Redefining \ttfamily on input line 120.
- [5] [6]
-LaTeX Info: Redefining \rmfamily on input line 146.
-LaTeX Info: Redefining \sffamily on input line 146.
-LaTeX Info: Redefining \ttfamily on input line 146.
-LaTeX Info: Redefining \rmfamily on input line 148.
-LaTeX Info: Redefining \sffamily on input line 148.
-LaTeX Info: Redefining \ttfamily on input line 148.
-LaTeX Info: Redefining \rmfamily on input line 152.
-LaTeX Info: Redefining \sffamily on input line 152.
-LaTeX Info: Redefining \ttfamily on input line 152.
+LaTeX Info: Redefining \rmfamily on input line 116.
+LaTeX Info: Redefining \sffamily on input line 116.
+LaTeX Info: Redefining \ttfamily on input line 116.
+LaTeX Info: Redefining \rmfamily on input line 119.
+LaTeX Info: Redefining \sffamily on input line 119.
+LaTeX Info: Redefining \ttfamily on input line 119.
+LaTeX Info: Redefining \rmfamily on input line 119.
+LaTeX Info: Redefining \sffamily on input line 119.
+LaTeX Info: Redefining \ttfamily on input line 119.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 134--141
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--141
+[][]
+ []
+
+[6]
+LaTeX Info: Redefining \rmfamily on input line 151.
+LaTeX Info: Redefining \sffamily on input line 151.
+LaTeX Info: Redefining \ttfamily on input line 151.
 LaTeX Info: Redefining \rmfamily on input line 153.
 LaTeX Info: Redefining \sffamily on input line 153.
 LaTeX Info: Redefining \ttfamily on input line 153.
+LaTeX Info: Redefining \rmfamily on input line 157.
+LaTeX Info: Redefining \sffamily on input line 157.
+LaTeX Info: Redefining \ttfamily on input line 157.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
  [7]
-LaTeX Info: Redefining \rmfamily on input line 156.
-LaTeX Info: Redefining \sffamily on input line 156.
-LaTeX Info: Redefining \ttfamily on input line 156.
+LaTeX Info: Redefining \rmfamily on input line 161.
+LaTeX Info: Redefining \sffamily on input line 161.
+LaTeX Info: Redefining \ttfamily on input line 161.
 
-Overfull \hbox (13.98854pt too wide) in paragraph at lines 169--176
+Overfull \hbox (13.98854pt too wide) in paragraph at lines 174--181
 [][]\TU/NoorNazanin(2)/m/sl/12 «سینگر» و «فای تسه» به مشکلات ناشی از رسانه‌های 
 مصنوعی (شبکه‌های اجتماعی دستکاری‌شده)[]
  []
 
-[8] [9]
-LaTeX Info: Redefining \rmfamily on input line 197.
-LaTeX Info: Redefining \sffamily on input line 197.
-LaTeX Info: Redefining \ttfamily on input line 197.
-LaTeX Info: Redefining \rmfamily on input line 199.
-LaTeX Info: Redefining \sffamily on input line 199.
-LaTeX Info: Redefining \ttfamily on input line 199.
-LaTeX Info: Redefining \rmfamily on input line 199.
-LaTeX Info: Redefining \sffamily on input line 199.
-LaTeX Info: Redefining \ttfamily on input line 199.
-LaTeX Info: Redefining \rmfamily on input line 200.
-LaTeX Info: Redefining \sffamily on input line 200.
-LaTeX Info: Redefining \ttfamily on input line 200.
-LaTeX Info: Redefining \rmfamily on input line 201.
-LaTeX Info: Redefining \sffamily on input line 201.
-LaTeX Info: Redefining \ttfamily on input line 201.
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 189--194
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--194
+[][]
+ []
+
+[9]
 LaTeX Info: Redefining \rmfamily on input line 204.
 LaTeX Info: Redefining \sffamily on input line 204.
 LaTeX Info: Redefining \ttfamily on input line 204.
- [10]
-LaTeX Info: Redefining \rmfamily on input line 221.
-LaTeX Info: Redefining \sffamily on input line 221.
-LaTeX Info: Redefining \ttfamily on input line 221.
-LaTeX Info: Redefining \rmfamily on input line 224.
-LaTeX Info: Redefining \sffamily on input line 224.
-LaTeX Info: Redefining \ttfamily on input line 224.
+LaTeX Info: Redefining \rmfamily on input line 207.
+LaTeX Info: Redefining \sffamily on input line 207.
+LaTeX Info: Redefining \ttfamily on input line 207.
+LaTeX Info: Redefining \rmfamily on input line 207.
+LaTeX Info: Redefining \sffamily on input line 207.
+LaTeX Info: Redefining \ttfamily on input line 207.
+LaTeX Info: Redefining \rmfamily on input line 208.
+LaTeX Info: Redefining \sffamily on input line 208.
+LaTeX Info: Redefining \ttfamily on input line 208.
+LaTeX Info: Redefining \rmfamily on input line 209.
+LaTeX Info: Redefining \sffamily on input line 209.
+LaTeX Info: Redefining \ttfamily on input line 209.
+LaTeX Info: Redefining \rmfamily on input line 212.
+LaTeX Info: Redefining \sffamily on input line 212.
+LaTeX Info: Redefining \ttfamily on input line 212.
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--223
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--223
+[][]
+ []
+
+[10]
+LaTeX Info: Redefining \rmfamily on input line 230.
+LaTeX Info: Redefining \sffamily on input line 230.
+LaTeX Info: Redefining \ttfamily on input line 230.
+LaTeX Info: Redefining \rmfamily on input line 234.
+LaTeX Info: Redefining \sffamily on input line 234.
+LaTeX Info: Redefining \ttfamily on input line 234.
  [11]
-LaTeX Info: Redefining \rmfamily on input line 235.
-LaTeX Info: Redefining \sffamily on input line 235.
-LaTeX Info: Redefining \ttfamily on input line 235.
+LaTeX Info: Redefining \rmfamily on input line 245.
+LaTeX Info: Redefining \sffamily on input line 245.
+LaTeX Info: Redefining \ttfamily on input line 245.
  [12]
-LaTeX Info: Redefining \rmfamily on input line 249.
-LaTeX Info: Redefining \sffamily on input line 249.
-LaTeX Info: Redefining \ttfamily on input line 249.
-LaTeX Info: Redefining \rmfamily on input line 252.
-LaTeX Info: Redefining \sffamily on input line 252.
-LaTeX Info: Redefining \ttfamily on input line 252.
-LaTeX Info: Redefining \rmfamily on input line 253.
-LaTeX Info: Redefining \sffamily on input line 253.
-LaTeX Info: Redefining \ttfamily on input line 253.
+LaTeX Info: Redefining \rmfamily on input line 259.
+LaTeX Info: Redefining \sffamily on input line 259.
+LaTeX Info: Redefining \ttfamily on input line 259.
 LaTeX Info: Redefining \rmfamily on input line 262.
 LaTeX Info: Redefining \sffamily on input line 262.
 LaTeX Info: Redefining \ttfamily on input line 262.
-LaTeX Info: Redefining \rmfamily on input line 264.
-LaTeX Info: Redefining \sffamily on input line 264.
-LaTeX Info: Redefining \ttfamily on input line 264.
- [13] [14]
-Overfull \hbox (4.42995pt too wide) in paragraph at lines 286--288
+LaTeX Info: Redefining \rmfamily on input line 263.
+LaTeX Info: Redefining \sffamily on input line 263.
+LaTeX Info: Redefining \ttfamily on input line 263.
+ [13]
+LaTeX Info: Redefining \rmfamily on input line 274.
+LaTeX Info: Redefining \sffamily on input line 274.
+LaTeX Info: Redefining \ttfamily on input line 274.
+LaTeX Info: Redefining \rmfamily on input line 276.
+LaTeX Info: Redefining \sffamily on input line 276.
+LaTeX Info: Redefining \ttfamily on input line 276.
+ [14]
+Overfull \hbox (4.42995pt too wide) in paragraph at lines 298--300
 [][]\TU/NoorNazanin(2)/m/sl/12 شبکه‌های اجتماعی و شرکت‌های بازی‌سازی طراحی شده‌
 اند تا از طریق تاکتیک‌های هوشمندانه‌ی[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 294.
-LaTeX Info: Redefining \sffamily on input line 294.
-LaTeX Info: Redefining \ttfamily on input line 294.
+LaTeX Info: Redefining \rmfamily on input line 306.
+LaTeX Info: Redefining \sffamily on input line 306.
+LaTeX Info: Redefining \ttfamily on input line 306.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--312
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--312
+[][]
+ []
+
 [15]
-LaTeX Info: Redefining \rmfamily on input line 303.
-LaTeX Info: Redefining \sffamily on input line 303.
-LaTeX Info: Redefining \ttfamily on input line 303.
-LaTeX Info: Redefining \rmfamily on input line 310.
-LaTeX Info: Redefining \sffamily on input line 310.
-LaTeX Info: Redefining \ttfamily on input line 310.
+LaTeX Info: Redefining \rmfamily on input line 319.
+LaTeX Info: Redefining \sffamily on input line 319.
+LaTeX Info: Redefining \ttfamily on input line 319.
+LaTeX Info: Redefining \rmfamily on input line 328.
+LaTeX Info: Redefining \sffamily on input line 328.
+LaTeX Info: Redefining \ttfamily on input line 328.
  [16] [17])
 (./content/chapters/2 مقدمه ای بر رویکردهای اخلاقی در علم داده.tex [18]
 فصل ۲.
@@ -2315,36 +2381,120 @@ LaTeX Info: Redefining \sffamily on input line 13.
 LaTeX Info: Redefining \ttfamily on input line 13.
 [19
 
-] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 50--70
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+[][]
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 55--76
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--70
+Underfull \hbox (badness 10000) in paragraph at lines 55--76
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--70
+Underfull \hbox (badness 10000) in paragraph at lines 55--76
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--70
+Underfull \hbox (badness 10000) in paragraph at lines 55--76
 [][]
  []
 
 [21]
-LaTeX Info: Redefining \rmfamily on input line 77.
-LaTeX Info: Redefining \sffamily on input line 77.
-LaTeX Info: Redefining \ttfamily on input line 77.
- [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
-[36] [37] [38]
-LaTeX Info: Redefining \rmfamily on input line 383.
-LaTeX Info: Redefining \sffamily on input line 383.
-LaTeX Info: Redefining \ttfamily on input line 383.
-) (./content/chapters/3 اخلاق تحقیق و روش علمی.tex [39]
+LaTeX Info: Redefining \rmfamily on input line 83.
+LaTeX Info: Redefining \sffamily on input line 83.
+LaTeX Info: Redefining \ttfamily on input line 83.
+ [22]
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+[][]
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+[][]
+ []
+
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+[][]
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 179--187
+[][]
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 198--212
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--212
+[][]
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 218--236
+[][]
+ []
+
+[29] [30] [31] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 302--317
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--330
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--330
+[][]
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
+[][]
+ []
+
+[35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 372--392
+[][]
+ []
+
+[37]
+LaTeX Info: Redefining \rmfamily on input line 411.
+LaTeX Info: Redefining \sffamily on input line 411.
+LaTeX Info: Redefining \ttfamily on input line 411.
+ [38]) (./content/chapters/3 اخلاق تحقیق و روش علمی.tex [39]
 فصل ۳.
 LaTeX Info: Redefining \rmfamily on input line 13.
 LaTeX Info: Redefining \sffamily on input line 13.
@@ -2352,59 +2502,59 @@ LaTeX Info: Redefining \ttfamily on input line 13.
 [40
 
 ]
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+LaTeX Info: Redefining \rmfamily on input line 32.
+LaTeX Info: Redefining \sffamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \rmfamily on input line 32.
+LaTeX Info: Redefining \sffamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 32.
 LaTeX Info: Redefining \rmfamily on input line 32.
 LaTeX Info: Redefining \sffamily on input line 32.
 LaTeX Info: Redefining \ttfamily on input line 32.
 LaTeX Info: Redefining \rmfamily on input line 33.
 LaTeX Info: Redefining \sffamily on input line 33.
 LaTeX Info: Redefining \ttfamily on input line 33.
-LaTeX Info: Redefining \rmfamily on input line 33.
-LaTeX Info: Redefining \sffamily on input line 33.
-LaTeX Info: Redefining \ttfamily on input line 33.
-LaTeX Info: Redefining \rmfamily on input line 33.
-LaTeX Info: Redefining \sffamily on input line 33.
-LaTeX Info: Redefining \ttfamily on input line 33.
-LaTeX Info: Redefining \rmfamily on input line 34.
-LaTeX Info: Redefining \sffamily on input line 34.
-LaTeX Info: Redefining \ttfamily on input line 34.
  [41]
-LaTeX Info: Redefining \rmfamily on input line 52.
-LaTeX Info: Redefining \sffamily on input line 52.
-LaTeX Info: Redefining \ttfamily on input line 52.
+LaTeX Info: Redefining \rmfamily on input line 51.
+LaTeX Info: Redefining \sffamily on input line 51.
+LaTeX Info: Redefining \ttfamily on input line 51.
  [42]
-LaTeX Info: Redefining \rmfamily on input line 68.
-LaTeX Info: Redefining \sffamily on input line 68.
-LaTeX Info: Redefining \ttfamily on input line 68.
-LaTeX Info: Redefining \rmfamily on input line 68.
-LaTeX Info: Redefining \sffamily on input line 68.
-LaTeX Info: Redefining \ttfamily on input line 68.
+LaTeX Info: Redefining \rmfamily on input line 67.
+LaTeX Info: Redefining \sffamily on input line 67.
+LaTeX Info: Redefining \ttfamily on input line 67.
+LaTeX Info: Redefining \rmfamily on input line 67.
+LaTeX Info: Redefining \sffamily on input line 67.
+LaTeX Info: Redefining \ttfamily on input line 67.
+LaTeX Info: Redefining \rmfamily on input line 69.
+LaTeX Info: Redefining \sffamily on input line 69.
+LaTeX Info: Redefining \ttfamily on input line 69.
 LaTeX Info: Redefining \rmfamily on input line 70.
 LaTeX Info: Redefining \sffamily on input line 70.
 LaTeX Info: Redefining \ttfamily on input line 70.
-LaTeX Info: Redefining \rmfamily on input line 71.
-LaTeX Info: Redefining \sffamily on input line 71.
-LaTeX Info: Redefining \ttfamily on input line 71.
-LaTeX Info: Redefining \rmfamily on input line 73.
-LaTeX Info: Redefining \sffamily on input line 73.
-LaTeX Info: Redefining \ttfamily on input line 73.
+LaTeX Info: Redefining \rmfamily on input line 72.
+LaTeX Info: Redefining \sffamily on input line 72.
+LaTeX Info: Redefining \ttfamily on input line 72.
  [43]
-LaTeX Info: Redefining \rmfamily on input line 75.
-LaTeX Info: Redefining \sffamily on input line 75.
-LaTeX Info: Redefining \ttfamily on input line 75.
+LaTeX Info: Redefining \rmfamily on input line 74.
+LaTeX Info: Redefining \sffamily on input line 74.
+LaTeX Info: Redefining \ttfamily on input line 74.
+LaTeX Info: Redefining \rmfamily on input line 74.
+LaTeX Info: Redefining \sffamily on input line 74.
+LaTeX Info: Redefining \ttfamily on input line 74.
 LaTeX Info: Redefining \rmfamily on input line 75.
 LaTeX Info: Redefining \sffamily on input line 75.
 LaTeX Info: Redefining \ttfamily on input line 75.
 LaTeX Info: Redefining \rmfamily on input line 76.
 LaTeX Info: Redefining \sffamily on input line 76.
 LaTeX Info: Redefining \ttfamily on input line 76.
-LaTeX Info: Redefining \rmfamily on input line 77.
-LaTeX Info: Redefining \sffamily on input line 77.
-LaTeX Info: Redefining \ttfamily on input line 77.
-LaTeX Info: Redefining \rmfamily on input line 77.
-LaTeX Info: Redefining \sffamily on input line 77.
-LaTeX Info: Redefining \ttfamily on input line 77.
+LaTeX Info: Redefining \rmfamily on input line 76.
+LaTeX Info: Redefining \sffamily on input line 76.
+LaTeX Info: Redefining \ttfamily on input line 76.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 [][]
  []
 
@@ -2416,7 +2566,7 @@ nguage=dflt;mapping=tex-text;!
 Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
 nguage=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
 [][]
  []
 
@@ -2425,22 +2575,7 @@ nguage=dflt;mapping=tex-text;!
 Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
 nguage=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
-[][]
- []
-
-Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
-nguage=dflt;mapping=tex-text;!
-Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
-nguage=dflt;mapping=tex-text;!
-Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
-nguage=dflt;mapping=tex-text;!
-Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
-nguage=dflt;mapping=tex-text;!
-Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
-nguage=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
 [][]
  []
 
@@ -2454,11 +2589,26 @@ Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;l
 nguage=dflt;mapping=tex-text;!
 Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
 nguage=dflt;mapping=tex-text;!
-LaTeX Info: Redefining \rmfamily on input line 170.
-LaTeX Info: Redefining \sffamily on input line 170.
-LaTeX Info: Redefining \ttfamily on input line 170.
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--172
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+[][]
+ []
+
+Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+LaTeX Info: Redefining \rmfamily on input line 169.
+LaTeX Info: Redefining \sffamily on input line 169.
+LaTeX Info: Redefining \ttfamily on input line 169.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 [][]
  []
 
@@ -2475,17 +2625,36 @@ nguage=dflt;mapping=tex-text;!
 Missing character: There is no • (U+2022) in font NoorNazanin/OT:script=arab;la
 nguage=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
 [][]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 187.
-LaTeX Info: Redefining \sffamily on input line 187.
-LaTeX Info: Redefining \ttfamily on input line 187.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-[47]) [48]
+LaTeX Info: Redefining \rmfamily on input line 186.
+LaTeX Info: Redefining \sffamily on input line 186.
+LaTeX Info: Redefining \ttfamily on input line 186.
+LaTeX Info: Redefining \rmfamily on input line 189.
+LaTeX Info: Redefining \sffamily on input line 189.
+LaTeX Info: Redefining \ttfamily on input line 189.
+[47] [48]
+LaTeX Info: Redefining \rmfamily on input line 200.
+LaTeX Info: Redefining \sffamily on input line 200.
+LaTeX Info: Redefining \ttfamily on input line 200.
+ [49]
+Underfull \hbox (badness 10000) in paragraph at lines 222--228
+[][]
+ []
+
+
+Overfull \hbox (13.42604pt too wide) in paragraph at lines 239--243
+[][]\TU/NoorNazanin(2)/m/sl/12 نادیده گرفتن شواهد و استدلال‌ها علیه دستور کار خ
+ود، ممکن است نیت خوب را به خیال‌پردازی‌های[]
+ []
+
+[50]
+LaTeX Info: Redefining \rmfamily on input line 248.
+LaTeX Info: Redefining \sffamily on input line 248.
+LaTeX Info: Redefining \ttfamily on input line 248.
+) [51]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2764,12 +2933,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40515 strings out of 478108
- 822190 string characters out of 5852087
- 1445268 words of memory out of 5000000
- 60338 multiletter control sequences out of 15000+600000
+ 40518 strings out of 478108
+ 822235 string characters out of 5852087
+ 1445579 words of memory out of 5000000
+ 60341 multiletter control sequences out of 15000+600000
  475498 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 104i,6n,115p,2663b,3758s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (54 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (57 pages).
