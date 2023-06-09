@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  8 JUN 2023 17:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  9 JUN 2023 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1694,6 +1694,10 @@ apping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 20.
+
+
+LaTeX Warning: Label `sec:تفسیر' multiply defined.
+
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
@@ -1719,8 +1723,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 \c@lstlisting=\count478
 Package hyperref Info: Link coloring ON on input line 10.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -2003,18 +2006,18 @@ LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 
-Overfull \hbox (9.75586pt too wide) detected at line 2
- [][][][][]\TU/NoorNazanin(2)/m/n/12 iii[][][][][]
- []
-
-
-Overfull \hbox (9.0pt too wide) detected at line 3
+Overfull \hbox (9.0pt too wide) detected at line 2
  [][][][][]\TU/NoorNazanin(2)/m/n/12 iv[][][][][]
  []
 
 
-Overfull \hbox (5.74805pt too wide) detected at line 7
+Overfull \hbox (5.74805pt too wide) detected at line 3
  [][][][][]\TU/NoorNazanin(2)/m/n/12 v[][][][][]
+ []
+
+
+Overfull \hbox (9.0pt too wide) detected at line 7
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 vi[][][][][]
  []
 
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -2143,6 +2146,11 @@ Overfull \hbox (10.82813pt too wide) detected at line 43
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۵۶[][][][][]
  []
 
+
+Overfull \hbox (10.82813pt too wide) detected at line 44
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۶۴[][][][][]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `"Real World AI Ethics for Data Scientists.toc"'.
@@ -2152,14 +2160,15 @@ Overfull \hbox (10.82813pt too wide) detected at line 43
 LaTeX Font Warning: Font shape `TU/NoorNazanin(2)/m/sl' undefined
 (Font)              using `TU/NoorNazanin(2)/m/n' instead on input line 19.
 
-[2] (./content/before chapters/تشکر نامه.tex
+[2]
+LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
+(Font)              scaled to size 12.0pt on input line 19.
+ [3] (./content/before chapters/تشکر نامه.tex
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
-LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 15.
- [3])
+ [4])
 (./content/before chapters/توضحات لازم.tex
 LaTeX Info: Redefining \rmfamily on input line 10.
 LaTeX Info: Redefining \sffamily on input line 10.
@@ -2175,7 +2184,7 @@ LaTeX Info: Redefining \ttfamily on input line 18.
 LaTeX Info: Redefining \rmfamily on input line 25.
 LaTeX Info: Redefining \sffamily on input line 25.
 LaTeX Info: Redefining \ttfamily on input line 25.
-[4]) (./content/before chapters/فهرست همکاران و مشارکت کنندگان.tex [5])
+[5]) (./content/before chapters/فهرست همکاران و مشارکت کنندگان.tex [6])
 (./content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 فصل ۱.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -2889,7 +2898,54 @@ LaTeX Info: Redefining \ttfamily on input line 231.
 LaTeX Info: Redefining \rmfamily on input line 233.
 LaTeX Info: Redefining \sffamily on input line 233.
 LaTeX Info: Redefining \ttfamily on input line 233.
- [63]) [64]
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--236
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--236
+[][]
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 248--254
+[][]
+ []
+
+[64] [65]
+Underfull \hbox (badness 10000) in paragraph at lines 267--275
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--275
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 284.
+LaTeX Info: Redefining \sffamily on input line 284.
+LaTeX Info: Redefining \ttfamily on input line 284.
+LaTeX Info: Redefining \rmfamily on input line 284.
+LaTeX Info: Redefining \sffamily on input line 284.
+LaTeX Info: Redefining \ttfamily on input line 284.
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--286
+[][]
+ []
+
+[66]
+LaTeX Info: Redefining \rmfamily on input line 294.
+LaTeX Info: Redefining \sffamily on input line 294.
+LaTeX Info: Redefining \ttfamily on input line 294.
+ [67]
+LaTeX Info: Redefining \rmfamily on input line 303.
+LaTeX Info: Redefining \sffamily on input line 303.
+LaTeX Info: Redefining \ttfamily on input line 303.
+LaTeX Info: Redefining \rmfamily on input line 309.
+LaTeX Info: Redefining \sffamily on input line 309.
+LaTeX Info: Redefining \ttfamily on input line 309.
+ [68]) [69]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3160,6 +3216,9 @@ content/chapters/4 مدل‌های ماشین در دادگاه.tex
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `"Real World AI Ethics for Data Scientists".o
 ut' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
@@ -3169,12 +3228,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40537 strings out of 478108
- 822943 string characters out of 5852087
- 1448725 words of memory out of 5000000
- 60357 multiletter control sequences out of 15000+600000
+ 40540 strings out of 478108
+ 823001 string characters out of 5852087
+ 1449272 words of memory out of 5000000
+ 60360 multiletter control sequences out of 15000+600000
  475498 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (70 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (76 pages).

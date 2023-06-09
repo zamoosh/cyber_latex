@@ -1,10 +1,10 @@
 \selectlanguage *{persian}
-\contentsline {section}{تشکر نامه}{iii}{section*.1}%
-\contentsline {section}{توضحات لازم}{iv}{section*.2}%
-\contentsline {paragraph}{}{iv}{paragraph*.3}%
-\contentsline {paragraph}{}{iv}{paragraph*.4}%
-\contentsline {paragraph}{}{iv}{paragraph*.5}%
-\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{v}{section*.6}%
+\contentsline {section}{تشکر نامه}{iv}{section*.1}%
+\contentsline {section}{توضحات لازم}{v}{section*.2}%
+\contentsline {paragraph}{}{v}{paragraph*.3}%
+\contentsline {paragraph}{}{v}{paragraph*.4}%
+\contentsline {paragraph}{}{v}{paragraph*.5}%
+\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{vi}{section*.6}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{chapter.1}%
 \contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.8}%
 \contentsline {section}{علم داده چیست؟}{۳}{section*.9}%
@@ -41,4 +41,7 @@
 \contentsline {section}{محاکمه‌های شفاهی نیکلاس هیلاری}{۵۳}{section*.42}%
 \contentsline {section}{خطرناک ترین دادستان نیویورک}{۵۵}{section*.43}%
 \contentsline {section}{شواهد DNA}{۵۶}{section*.44}%
+\contentsline {section}{تفسیر}{۶۴}{section*.47}%
+\contentsline {subsection}{اخلاق یهود}{۶۴}{section*.48}%
+\contentsline {subsection}{اخلاق دئونتولوژیک}{۶۶}{section*.49}%
 \contentsfinish 
