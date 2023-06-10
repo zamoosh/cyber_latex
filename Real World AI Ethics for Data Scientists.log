@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.30)  9 JUN 2023 17:46
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  10 JUN 2023 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2151,16 +2151,39 @@ Overfull \hbox (10.82813pt too wide) detected at line 44
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۶۴[][][][][]
  []
 
+
+LaTeX Font Warning: Font shape `TU/NoorNazanin(2)/m/sl' undefined
+(Font)              using `TU/NoorNazanin(2)/m/n' instead on input line 47.
+
+[2]
+Overfull \hbox (10.91016pt too wide) detected at line 47
+ [][][][][]\TU/NoorNazanin(2)/b/n/12 ۷۰[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 48
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۷۰[][][][][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 49.
+LaTeX Info: Redefining \sffamily on input line 49.
+LaTeX Info: Redefining \ttfamily on input line 49.
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 49.
+
+LaTeX Info: Redefining \rmfamily on input line 49.
+LaTeX Info: Redefining \sffamily on input line 49.
+LaTeX Info: Redefining \ttfamily on input line 49.
+
+Overfull \hbox (11.25pt too wide) detected at line 49
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۷۴[][][][][]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `"Real World AI Ethics for Data Scientists.toc"'.
 
-
-
-LaTeX Font Warning: Font shape `TU/NoorNazanin(2)/m/sl' undefined
-(Font)              using `TU/NoorNazanin(2)/m/n' instead on input line 19.
-
-[2]
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
 (Font)              scaled to size 12.0pt on input line 19.
  [3] (./content/before chapters/تشکر نامه.tex
@@ -2173,18 +2196,14 @@ LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
 LaTeX Info: Redefining \rmfamily on input line 10.
 LaTeX Info: Redefining \sffamily on input line 10.
 LaTeX Info: Redefining \ttfamily on input line 10.
-
-
-LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 10.
-
 LaTeX Info: Redefining \rmfamily on input line 18.
 LaTeX Info: Redefining \sffamily on input line 18.
 LaTeX Info: Redefining \ttfamily on input line 18.
 LaTeX Info: Redefining \rmfamily on input line 25.
 LaTeX Info: Redefining \sffamily on input line 25.
 LaTeX Info: Redefining \ttfamily on input line 25.
-[5]) (./content/before chapters/فهرست همکاران و مشارکت کنندگان.tex [6])
+ [5])
+(./content/before chapters/فهرست همکاران و مشارکت کنندگان.tex [6])
 (./content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 فصل ۱.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -2945,7 +2964,152 @@ LaTeX Info: Redefining \ttfamily on input line 303.
 LaTeX Info: Redefining \rmfamily on input line 309.
 LaTeX Info: Redefining \sffamily on input line 309.
 LaTeX Info: Redefining \ttfamily on input line 309.
- [68]) [69]
+ [68]) (./content/chapters/5 رسانه های مصنوعی و خشونت سیاسی.tex
+[69]
+فصل ۵.
+LaTeX Info: Redefining \rmfamily on input line 13.
+LaTeX Info: Redefining \sffamily on input line 13.
+LaTeX Info: Redefining \ttfamily on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 32.
+LaTeX Info: Redefining \sffamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \rmfamily on input line 33.
+LaTeX Info: Redefining \sffamily on input line 33.
+LaTeX Info: Redefining \ttfamily on input line 33.
+[70
+
+]
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+LaTeX Info: Redefining \rmfamily on input line 43.
+LaTeX Info: Redefining \sffamily on input line 43.
+LaTeX Info: Redefining \ttfamily on input line 43.
+LaTeX Info: Redefining \rmfamily on input line 44.
+LaTeX Info: Redefining \sffamily on input line 44.
+LaTeX Info: Redefining \ttfamily on input line 44.
+LaTeX Info: Redefining \rmfamily on input line 45.
+LaTeX Info: Redefining \sffamily on input line 45.
+LaTeX Info: Redefining \ttfamily on input line 45.
+LaTeX Info: Redefining \rmfamily on input line 45.
+LaTeX Info: Redefining \sffamily on input line 45.
+LaTeX Info: Redefining \ttfamily on input line 45.
+LaTeX Info: Redefining \rmfamily on input line 46.
+LaTeX Info: Redefining \sffamily on input line 46.
+LaTeX Info: Redefining \ttfamily on input line 46.
+ [71]
+LaTeX Info: Redefining \rmfamily on input line 57.
+LaTeX Info: Redefining \sffamily on input line 57.
+LaTeX Info: Redefining \ttfamily on input line 57.
+LaTeX Info: Redefining \rmfamily on input line 57.
+LaTeX Info: Redefining \sffamily on input line 57.
+LaTeX Info: Redefining \ttfamily on input line 57.
+
+Missing character: There is no ٪ (U+066A) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+Missing character: There is no ٪ (U+066A) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+LaTeX Info: Redefining \rmfamily on input line 60.
+LaTeX Info: Redefining \sffamily on input line 60.
+LaTeX Info: Redefining \ttfamily on input line 60.
+LaTeX Info: Redefining \rmfamily on input line 63.
+LaTeX Info: Redefining \sffamily on input line 63.
+LaTeX Info: Redefining \ttfamily on input line 63.
+LaTeX Info: Redefining \rmfamily on input line 66.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 66.
+[72]
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+LaTeX Info: Redefining \rmfamily on input line 69.
+LaTeX Info: Redefining \sffamily on input line 69.
+LaTeX Info: Redefining \ttfamily on input line 69.
+LaTeX Info: Redefining \rmfamily on input line 70.
+LaTeX Info: Redefining \sffamily on input line 70.
+LaTeX Info: Redefining \ttfamily on input line 70.
+LaTeX Info: Redefining \rmfamily on input line 71.
+LaTeX Info: Redefining \sffamily on input line 71.
+LaTeX Info: Redefining \ttfamily on input line 71.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+[][]
+ []
+
+[73]
+LaTeX Info: Redefining \rmfamily on input line 83.
+LaTeX Info: Redefining \sffamily on input line 83.
+LaTeX Info: Redefining \ttfamily on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\textenglish' on input line 86.
+
+LaTeX Info: Redefining \rmfamily on input line 87.
+LaTeX Info: Redefining \sffamily on input line 87.
+LaTeX Info: Redefining \ttfamily on input line 87.
+LaTeX Info: Redefining \rmfamily on input line 91.
+LaTeX Info: Redefining \sffamily on input line 91.
+LaTeX Info: Redefining \ttfamily on input line 91.
+LaTeX Info: Redefining \rmfamily on input line 93.
+LaTeX Info: Redefining \sffamily on input line 93.
+LaTeX Info: Redefining \ttfamily on input line 93.
+LaTeX Info: Redefining \rmfamily on input line 93.
+LaTeX Info: Redefining \sffamily on input line 93.
+LaTeX Info: Redefining \ttfamily on input line 93.
+LaTeX Info: Redefining \rmfamily on input line 98.
+LaTeX Info: Redefining \sffamily on input line 98.
+LaTeX Info: Redefining \ttfamily on input line 98.
+LaTeX Info: Redefining \rmfamily on input line 98.
+LaTeX Info: Redefining \sffamily on input line 98.
+LaTeX Info: Redefining \ttfamily on input line 98.
+[74]
+LaTeX Info: Redefining \rmfamily on input line 111.
+LaTeX Info: Redefining \sffamily on input line 111.
+LaTeX Info: Redefining \ttfamily on input line 111.
+LaTeX Info: Redefining \rmfamily on input line 112.
+LaTeX Info: Redefining \sffamily on input line 112.
+LaTeX Info: Redefining \ttfamily on input line 112.
+LaTeX Info: Redefining \rmfamily on input line 112.
+LaTeX Info: Redefining \sffamily on input line 112.
+LaTeX Info: Redefining \ttfamily on input line 112.
+LaTeX Info: Redefining \rmfamily on input line 113.
+LaTeX Info: Redefining \sffamily on input line 113.
+LaTeX Info: Redefining \ttfamily on input line 113.
+ [75]) [76]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3211,6 +3375,7 @@ content/chapters/1 مقدمه: ماشین‌های اخلاقی.tex
 content/chapters/2 مقدمه ای بر رویکردهای اخلاقی در علم داده.tex
 content/chapters/3 اخلاق تحقیق و روش علمی.tex
 content/chapters/4 مدل‌های ماشین در دادگاه.tex
+content/chapters/5 رسانه های مصنوعی و خشونت سیاسی.tex
  ***********
 
 
@@ -3228,12 +3393,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40540 strings out of 478108
- 823001 string characters out of 5852087
- 1449272 words of memory out of 5000000
- 60360 multiletter control sequences out of 15000+600000
- 475498 words of font info for 87 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 40557 strings out of 478149
+ 823666 string characters out of 5853102
+ 1450197 words of memory out of 5000000
+ 60366 multiletter control sequences out of 15000+600000
+ 475506 words of font info for 88 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (76 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (83 pages).
