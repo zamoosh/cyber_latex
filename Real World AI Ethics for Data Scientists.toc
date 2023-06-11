@@ -18,7 +18,7 @@
 \contentsline {subsection}{مورد۵ - تعدیل محتوا: سخنرانی خطرناک و پاکسازی قومی در میانمار}{۱۱}{section*.17}%
 \contentsline {subsection}{مورد۶ - بدافزار ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۴}{section*.18}%
 \contentsline {paragraph}{}{۱۴}{paragraph*.19}%
-\contentsline {subsection}{مورد۷ - هوش مصنوعی و موجودات غیر انسان}{۱۶}{section*.20}%
+\contentsline {subsection}{مورد۷ - هوش‌مصنوعی و موجودات غیر انسان}{۱۶}{section*.20}%
 \contentsline {chapter}{\numberline {۲}مقدمه ای بر رویکردهای اخلاقی در علم داده}{۱۹}{chapter.2}%
 \contentsline {section}{مقدمه}{۱۹}{section*.22}%
 \contentsline {section}{رفتار نتیجه گرایی و فایده‌گرایی}{۲۰}{section*.23}%
@@ -47,4 +47,10 @@
 \contentsline {chapter}{\numberline {۵}رسانه‌های‌مصنوعی و خشونت سیاسی}{۷۰}{chapter.5}%
 \contentsline {section}{کودتا در گابن}{۷۰}{section*.51}%
 \contentsline {section}{بولی بای \textenglish {\textbf {(Bulli Bai)}}: فروش زنان به صورت مصنوعی در هند}{۷۴}{section*.52}%
+\contentsline {section}{تفسیر}{۷۶}{section*.53}%
+\contentsline {subsection}{اخلاق فضیلت}{۷۶}{section*.54}%
+\contentsline {subsubsection}{ملاحظات کلیدی - ارزش حقیقت}{۷۶}{section*.55}%
+\contentsline {subsubsection}{آیا کل قضیه‌ی \textenglish {\textbf {deepfake}} همین است؟}{۷۷}{section*.56}%
+\contentsline {subsection}{اخلاق آفریقایی}{۷۹}{section*.57}%
+\contentsline {subsection}{اخلاق بومی}{۸۲}{section*.58}%
 \contentsfinish 
