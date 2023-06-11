@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  11 JUN 2023 03:41
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  11 JUN 2023 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1701,6 +1701,12 @@ LaTeX Warning: Label `sec:تفسیر' multiply defined.
 
 LaTeX Warning: Label `sec:تفسیر' multiply defined.
 
+
+LaTeX Warning: Label `sec:تفسیر' multiply defined.
+
+
+LaTeX Warning: Label `subsec:اخلاق بومی' multiply defined.
+
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
@@ -2191,6 +2197,37 @@ Overfull \hbox (10.82813pt too wide) detected at line 50
 LaTeX Info: Redefining \rmfamily on input line 53.
 LaTeX Info: Redefining \sffamily on input line 53.
 LaTeX Info: Redefining \ttfamily on input line 53.
+
+Overfull \hbox (13.26563pt too wide) detected at line 56
+ [][][][][]\TU/NoorNazanin(2)/b/n/12 ۸۵[][][][][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 57.
+LaTeX Info: Redefining \sffamily on input line 57.
+LaTeX Info: Redefining \ttfamily on input line 57.
+LaTeX Info: Redefining \rmfamily on input line 57.
+LaTeX Info: Redefining \sffamily on input line 57.
+LaTeX Info: Redefining \ttfamily on input line 57.
+
+Overfull \hbox (11.25pt too wide) detected at line 57
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۸۵[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 58
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۸۸[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 59
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۸۹[][][][][]
+ []
+
+
+Overfull \hbox (11.25pt too wide) detected at line 60
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۹۰[][][][][]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `"Real World AI Ethics for Data Scientists.toc"'.
@@ -3265,7 +3302,225 @@ LaTeX Info: Redefining \ttfamily on input line 306.
 LaTeX Info: Redefining \rmfamily on input line 306.
 LaTeX Info: Redefining \sffamily on input line 306.
 LaTeX Info: Redefining \ttfamily on input line 306.
-) [84]
+) (./content/chapters/6 بیومتریک و تشخیص چهره.tex [84]
+فصل ۶.
+LaTeX Info: Redefining \rmfamily on input line 15.
+LaTeX Info: Redefining \sffamily on input line 15.
+LaTeX Info: Redefining \ttfamily on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 22.
+LaTeX Info: Redefining \sffamily on input line 22.
+LaTeX Info: Redefining \ttfamily on input line 22.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\textenglish' on input line 24.
+
+LaTeX Info: Redefining \rmfamily on input line 25.
+LaTeX Info: Redefining \sffamily on input line 25.
+LaTeX Info: Redefining \ttfamily on input line 25.
+LaTeX Info: Redefining \rmfamily on input line 25.
+LaTeX Info: Redefining \sffamily on input line 25.
+LaTeX Info: Redefining \ttfamily on input line 25.
+LaTeX Info: Redefining \rmfamily on input line 25.
+LaTeX Info: Redefining \sffamily on input line 25.
+LaTeX Info: Redefining \ttfamily on input line 25.
+[85
+
+]
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 36.
+LaTeX Info: Redefining \ttfamily on input line 36.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 36.
+LaTeX Info: Redefining \ttfamily on input line 36.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 36.
+LaTeX Info: Redefining \ttfamily on input line 36.
+
+Overfull \hbox (1.01979pt too wide) in paragraph at lines 33--38
+[][]\TU/NoorNazanin(2)/m/sl/12 چندین سازمان غیرانتفاعی شروع به استفاده از فناور
+ی‌های یادگیری‌ماشین برای مشکل شناسایی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 39.
+LaTeX Info: Redefining \sffamily on input line 39.
+LaTeX Info: Redefining \ttfamily on input line 39.
+LaTeX Info: Redefining \rmfamily on input line 39.
+LaTeX Info: Redefining \sffamily on input line 39.
+LaTeX Info: Redefining \ttfamily on input line 39.
+LaTeX Info: Redefining \rmfamily on input line 40.
+LaTeX Info: Redefining \sffamily on input line 40.
+LaTeX Info: Redefining \ttfamily on input line 40.
+LaTeX Info: Redefining \rmfamily on input line 40.
+LaTeX Info: Redefining \sffamily on input line 40.
+LaTeX Info: Redefining \ttfamily on input line 40.
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+LaTeX Info: Redefining \rmfamily on input line 42.
+LaTeX Info: Redefining \sffamily on input line 42.
+LaTeX Info: Redefining \ttfamily on input line 42.
+LaTeX Info: Redefining \rmfamily on input line 44.
+LaTeX Info: Redefining \sffamily on input line 44.
+LaTeX Info: Redefining \ttfamily on input line 44.
+LaTeX Info: Redefining \rmfamily on input line 44.
+LaTeX Info: Redefining \sffamily on input line 44.
+LaTeX Info: Redefining \ttfamily on input line 44.
+LaTeX Info: Redefining \rmfamily on input line 45.
+LaTeX Info: Redefining \sffamily on input line 45.
+LaTeX Info: Redefining \ttfamily on input line 45.
+LaTeX Info: Redefining \rmfamily on input line 46.
+LaTeX Info: Redefining \sffamily on input line 46.
+LaTeX Info: Redefining \ttfamily on input line 46.
+LaTeX Info: Redefining \rmfamily on input line 47.
+LaTeX Info: Redefining \sffamily on input line 47.
+LaTeX Info: Redefining \ttfamily on input line 47.
+LaTeX Info: Redefining \rmfamily on input line 48.
+LaTeX Info: Redefining \sffamily on input line 48.
+LaTeX Info: Redefining \ttfamily on input line 48.
+LaTeX Info: Redefining \rmfamily on input line 49.
+LaTeX Info: Redefining \sffamily on input line 49.
+LaTeX Info: Redefining \ttfamily on input line 49.
+LaTeX Info: Redefining \rmfamily on input line 51.
+LaTeX Info: Redefining \sffamily on input line 51.
+LaTeX Info: Redefining \ttfamily on input line 51.
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+[86] [87]
+LaTeX Info: Redefining \rmfamily on input line 64.
+LaTeX Info: Redefining \sffamily on input line 64.
+LaTeX Info: Redefining \ttfamily on input line 64.
+LaTeX Info: Redefining \rmfamily on input line 79.
+LaTeX Info: Redefining \sffamily on input line 79.
+LaTeX Info: Redefining \ttfamily on input line 79.
+LaTeX Info: Redefining \rmfamily on input line 79.
+LaTeX Info: Redefining \sffamily on input line 79.
+LaTeX Info: Redefining \ttfamily on input line 79.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--82
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--82
+[][]
+ []
+
+[88]
+LaTeX Info: Redefining \rmfamily on input line 89.
+LaTeX Info: Redefining \sffamily on input line 89.
+LaTeX Info: Redefining \ttfamily on input line 89.
+LaTeX Info: Redefining \rmfamily on input line 90.
+LaTeX Info: Redefining \sffamily on input line 90.
+LaTeX Info: Redefining \ttfamily on input line 90.
+LaTeX Info: Redefining \rmfamily on input line 91.
+LaTeX Info: Redefining \sffamily on input line 91.
+LaTeX Info: Redefining \ttfamily on input line 91.
+LaTeX Info: Redefining \rmfamily on input line 91.
+LaTeX Info: Redefining \sffamily on input line 91.
+LaTeX Info: Redefining \ttfamily on input line 91.
+LaTeX Info: Redefining \rmfamily on input line 92.
+LaTeX Info: Redefining \sffamily on input line 92.
+LaTeX Info: Redefining \ttfamily on input line 92.
+ [89]
+LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \sffamily on input line 95.
+LaTeX Info: Redefining \ttfamily on input line 95.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 118.
+LaTeX Info: Redefining \sffamily on input line 118.
+LaTeX Info: Redefining \ttfamily on input line 118.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+[][]
+ []
+
+[90]
+LaTeX Info: Redefining \rmfamily on input line 131.
+LaTeX Info: Redefining \sffamily on input line 131.
+LaTeX Info: Redefining \ttfamily on input line 131.
+LaTeX Info: Redefining \rmfamily on input line 132.
+LaTeX Info: Redefining \sffamily on input line 132.
+LaTeX Info: Redefining \ttfamily on input line 132.
+ [91]
+Underfull \hbox (badness 10000) in paragraph at lines 134--142
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--142
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 152.
+LaTeX Info: Redefining \sffamily on input line 152.
+LaTeX Info: Redefining \ttfamily on input line 152.
+LaTeX Info: Redefining \rmfamily on input line 152.
+LaTeX Info: Redefining \sffamily on input line 152.
+LaTeX Info: Redefining \ttfamily on input line 152.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--154
+[][]
+ []
+
+[92]
+LaTeX Info: Redefining \rmfamily on input line 155.
+LaTeX Info: Redefining \sffamily on input line 155.
+LaTeX Info: Redefining \ttfamily on input line 155.
+LaTeX Info: Redefining \rmfamily on input line 156.
+LaTeX Info: Redefining \sffamily on input line 156.
+LaTeX Info: Redefining \ttfamily on input line 156.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 159.
+LaTeX Info: Redefining \sffamily on input line 159.
+LaTeX Info: Redefining \ttfamily on input line 159.
+ [93]
+LaTeX Info: Redefining \rmfamily on input line 171.
+LaTeX Info: Redefining \sffamily on input line 171.
+LaTeX Info: Redefining \ttfamily on input line 171.
+LaTeX Info: Redefining \rmfamily on input line 172.
+LaTeX Info: Redefining \sffamily on input line 172.
+LaTeX Info: Redefining \ttfamily on input line 172.
+LaTeX Info: Redefining \rmfamily on input line 172.
+LaTeX Info: Redefining \sffamily on input line 172.
+LaTeX Info: Redefining \ttfamily on input line 172.
+) [94]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3532,6 +3787,7 @@ content/chapters/2 مقدمه ای بر رویکردهای اخلاقی در ع�
 content/chapters/3 اخلاق تحقیق و روش علمی.tex
 content/chapters/4 مدل‌های ماشین در دادگاه.tex
 content/chapters/5 رسانه های مصنوعی و خشونت سیاسی.tex
+content/chapters/6 بیومتریک و تشخیص چهره.tex
  ***********
 
 
@@ -3549,12 +3805,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40564 strings out of 478149
- 823836 string characters out of 5853102
- 1451485 words of memory out of 5000000
- 60373 multiletter control sequences out of 15000+600000
+ 40579 strings out of 478149
+ 824365 string characters out of 5853102
+ 1453190 words of memory out of 5000000
+ 60385 multiletter control sequences out of 15000+600000
  475506 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (91 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (101 pages).

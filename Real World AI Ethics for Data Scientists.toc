@@ -53,4 +53,11 @@
 \contentsline {subsubsection}{آیا کل قضیه‌ی \textenglish {\textbf {deepfake}} همین است؟}{۷۷}{section*.56}%
 \contentsline {subsection}{اخلاق آفریقایی}{۷۹}{section*.57}%
 \contentsline {subsection}{اخلاق بومی}{۸۲}{section*.58}%
+\contentsline {chapter}{\numberline {۶}بیومتریک و تشخیص چهره}{۸۵}{chapter.6}%
+\contentsline {section}{شرکت \textenglish {\textbf {Clearview AI}}}{۸۵}{section*.60}%
+\contentsline {section}{بیومتریک و فناوری تشخیص چهره}{۸۸}{section*.61}%
+\contentsline {section}{تشخیص چهره و حفظ حریم خصوصی}{۸۹}{section*.62}%
+\contentsline {section}{تفسیر}{۹۰}{section*.63}%
+\contentsline {subsection}{اخلاق بومی}{۹۰}{section*.64}%
+\contentsline {subsection}{بشردوستی و قوانین درگیری مسلحانه}{۹۲}{section*.65}%
 \contentsfinish 
