@@ -1,10 +1,10 @@
 \selectlanguage *{persian}
-\contentsline {section}{تشکر نامه}{iv}{section*.1}%
-\contentsline {section}{توضحات لازم}{v}{section*.2}%
-\contentsline {paragraph}{}{v}{paragraph*.3}%
-\contentsline {paragraph}{}{v}{paragraph*.4}%
-\contentsline {paragraph}{}{v}{paragraph*.5}%
-\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{vi}{section*.6}%
+\contentsline {section}{تشکر نامه}{v}{section*.1}%
+\contentsline {section}{توضحات لازم}{vi}{section*.2}%
+\contentsline {paragraph}{}{vi}{paragraph*.3}%
+\contentsline {paragraph}{}{vi}{paragraph*.4}%
+\contentsline {paragraph}{}{vi}{paragraph*.5}%
+\contentsline {section}{فهرست همکاران و مشارکت کنندگان}{vii}{section*.6}%
 \contentsline {chapter}{\numberline {۱}مقدمه: ماشین‌های اخلاقی}{۱}{chapter.1}%
 \contentsline {section}{ماشین‌های اخلاقی}{۱}{section*.8}%
 \contentsline {section}{علم داده چیست؟}{۳}{section*.9}%
@@ -60,4 +60,11 @@
 \contentsline {section}{تفسیر}{۹۰}{section*.63}%
 \contentsline {subsection}{اخلاق بومی}{۹۰}{section*.64}%
 \contentsline {subsection}{بشردوستی و قوانین درگیری مسلحانه}{۹۲}{section*.65}%
+\contentsline {chapter}{\numberline {۷}تعدیل محتوا: سخنان نفرت انگیز و نسل کشی در میانمار}{۹۵}{chapter.7}%
+\contentsline {section}{شرکت \textenglish {\textbf {Facebook}} و پاکسازی قومی در برمه}{۹۵}{section*.67}%
+\contentsline {section}{نفرت قدیمی و فناوری جدید}{۹۷}{section*.68}%
+\contentsline {section}{تفسیر}{۱۰۰}{section*.69}%
+\contentsline {subsection}{اخلاق بودایی}{۱۰۰}{section*.70}%
+\contentsline {subsection}{اخلاق فضیلت}{۱۰۵}{section*.71}%
+\contentsline {subsection}{اخلاق بومی}{۱۱۰}{section*.72}%
 \contentsfinish 
