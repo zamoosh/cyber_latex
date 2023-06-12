@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  12 JUN 2023 18:00
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  13 JUN 2023 01:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2263,13 +2263,28 @@ Overfull \hbox (16.875pt too wide) detected at line 66
  [][][][][]\TU/NoorNazanin(2)/m/n/12 ۱۰۰[][][][][]
  []
 
+LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
+(Font)              scaled to size 12.0pt on input line 70.
+[3]
+Overfull \hbox (15.01172pt too wide) detected at line 70
+ [][][][][]\TU/NoorNazanin(2)/b/n/12 ۱۱۳[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 71
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۱۳[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 72
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۱۵[][][][][]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `"Real World AI Ethics for Data Scientists.toc"'.
 
-LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 19.
- [3] [4] (./content/before chapters/تشکر نامه.tex
+ [4] (./content/before chapters/تشکر نامه.tex
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -3795,7 +3810,106 @@ LaTeX Info: Redefining \ttfamily on input line 296.
 LaTeX Info: Redefining \rmfamily on input line 297.
 LaTeX Info: Redefining \sffamily on input line 297.
 LaTeX Info: Redefining \ttfamily on input line 297.
- [111]) [112]
+ [111]) (./content/chapters/8 بدافزارهای ذهنی.tex [112]
+فصل ۸.
+
+Overfull \hbox (31.61913pt too wide) in paragraph at lines 5--5
+[]|\TU/NoorNazanin(2)/b/n/24.88 بدافزارهای ذهنی: الگوریتم‌ها و معماری انتخاب| [
+]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 13.
+LaTeX Info: Redefining \sffamily on input line 13.
+LaTeX Info: Redefining \ttfamily on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+[113
+
+]
+LaTeX Info: Redefining \rmfamily on input line 26.
+LaTeX Info: Redefining \sffamily on input line 26.
+LaTeX Info: Redefining \ttfamily on input line 26.
+LaTeX Info: Redefining \rmfamily on input line 28.
+LaTeX Info: Redefining \sffamily on input line 28.
+LaTeX Info: Redefining \ttfamily on input line 28.
+LaTeX Info: Redefining \rmfamily on input line 30.
+LaTeX Info: Redefining \sffamily on input line 30.
+LaTeX Info: Redefining \ttfamily on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+[][]
+ []
+
+[114]
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
+ [115]
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+LaTeX Info: Redefining \rmfamily on input line 71.
+LaTeX Info: Redefining \sffamily on input line 71.
+LaTeX Info: Redefining \ttfamily on input line 71.
+LaTeX Info: Redefining \rmfamily on input line 72.
+LaTeX Info: Redefining \sffamily on input line 72.
+LaTeX Info: Redefining \ttfamily on input line 72.
+LaTeX Info: Redefining \rmfamily on input line 77.
+LaTeX Info: Redefining \sffamily on input line 77.
+LaTeX Info: Redefining \ttfamily on input line 77.
+ [116]
+LaTeX Info: Redefining \rmfamily on input line 83.
+LaTeX Info: Redefining \sffamily on input line 83.
+LaTeX Info: Redefining \ttfamily on input line 83.
+ [117]
+Underfull \hbox (badness 10000) in paragraph at lines 99--104
+[][]
+ []
+
+[118]) [119]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -4064,6 +4178,7 @@ content/chapters/4 مدل‌های ماشین در دادگاه.tex
 content/chapters/5 رسانه های مصنوعی و خشونت سیاسی.tex
 content/chapters/6 بیومتریک و تشخیص چهره.tex
 content/chapters/7 تعدیل محتوا.tex
+content/chapters/8 بدافزارهای ذهنی.tex
  ***********
 
 
@@ -4081,12 +4196,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 40593 strings out of 478149
- 824804 string characters out of 5853102
- 1454971 words of memory out of 5000000
- 60396 multiletter control sequences out of 15000+600000
+ 40608 strings out of 478149
+ 825314 string characters out of 5853102
+ 1456419 words of memory out of 5000000
+ 60408 multiletter control sequences out of 15000+600000
  475506 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (120 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (127 pages).

@@ -67,4 +67,7 @@
 \contentsline {subsection}{اخلاق بودایی}{۱۰۰}{section*.70}%
 \contentsline {subsection}{اخلاق فضیلت}{۱۰۵}{section*.71}%
 \contentsline {subsection}{اخلاق بومی}{۱۱۰}{section*.72}%
+\contentsline {chapter}{\numberline {۸}بدافزارهای ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۱۳}{chapter.8}%
+\contentsline {section}{رسوایی داده های کمبریج آنالیتیکا}{۱۱۳}{section*.74}%
+\contentsline {section}{معماری انتخابی و فناوری متقاعد کننده: "جعبه ای برای انسان مدرن"}{۱۱۵}{section*.75}%
 \contentsfinish 
