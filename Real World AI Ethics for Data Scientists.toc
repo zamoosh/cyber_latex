@@ -76,4 +76,5 @@
 \contentsline {subsection}{اخلاق بودایی}{۱۲۵}{section*.80}%
 \contentsline {subsection}{اخلاق فضیلت}{۱۲۸}{section*.81}%
 \contentsline {subsection}{اخلاق دئونتولوژیک}{۱۳۲}{section*.82}%
+\contentsline {chapter}{\numberline {۹}هوش مصنوعی و حیوانات}{۱۳۶}{chapter.9}%
 \contentsfinish 

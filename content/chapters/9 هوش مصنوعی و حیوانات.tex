@@ -1,0 +1,40 @@
+%! Author = zamoosh
+%! Date = 6/14/23
+
+
+\chapter{هوش مصنوعی و حیوانات}
+\label{ch:هوش مصنوعی و حیوانات}
+\phantomsection
+
+
+\begin{figure}
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            ymin=0,
+            xlabel={کمپانی},
+            ylabel={معنی کلمه فاصله کسینوس},
+            xtick=data,
+            xticklabels={پرورشی, غیر پرورشی, انسان},
+            width=0.8\textwidth,
+            height=15cm,
+            bar width=0.5cm,
+            legend style={at={(0.5,-0.15)},
+            anchor=north,legend columns=-1},
+            enlarge x limits=0.2,
+            grid=both, % Add this line for grid background
+            ytick distance=0.05, % Change the y-axis tick distance
+            scaled y ticks=false, % Prevent scientific notation
+        ]
+            \addplot coordinates {(1,0.05) (2,0.053) (3,0.9)};
+            \addplot coordinates {(1,0.03) (2,0.075) (3,0.225)};
+            \addplot coordinates {(1,0.19) (2,0.219) (3,0.365)};
+            \legend{Google News 6B Tokens, Wikipedia 6B Tokens, Twitter 27B Tokens}
+        \end{axis}
+%        \node[anchor=north west] at (current bounding box.north west) {\textbf{1.9}};
+    \end{tikzpicture}
+    \label{fig:figure}
+\end{figure}
+
+
