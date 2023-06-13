@@ -70,4 +70,8 @@
 \contentsline {chapter}{\numberline {۸}بدافزارهای ذهنی: الگوریتم‌ها و معماری انتخاب}{۱۱۳}{chapter.8}%
 \contentsline {section}{رسوایی داده های کمبریج آنالیتیکا}{۱۱۳}{section*.74}%
 \contentsline {section}{معماری انتخابی و فناوری متقاعد کننده: "جعبه ای برای انسان مدرن"}{۱۱۵}{section*.75}%
+\contentsline {section}{سیاستمداران «محبوب»، فعالیت «غیر اصیل» و اثر متیو}{۱۲۰}{section*.77}%
+\contentsline {section}{منشور اخلاق پزشکی نورنبرگ}{۱۲۴}{section*.78}%
+\contentsline {section}{تفسیر}{۱۲۵}{section*.79}%
+\contentsline {subsection}{اخلاق بودایی}{۱۲۵}{section*.80}%
 \contentsfinish 
