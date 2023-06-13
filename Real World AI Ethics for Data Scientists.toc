@@ -74,4 +74,6 @@
 \contentsline {section}{منشور اخلاق پزشکی نورنبرگ}{۱۲۴}{section*.78}%
 \contentsline {section}{تفسیر}{۱۲۵}{section*.79}%
 \contentsline {subsection}{اخلاق بودایی}{۱۲۵}{section*.80}%
+\contentsline {subsection}{اخلاق فضیلت}{۱۲۸}{section*.81}%
+\contentsline {subsection}{اخلاق دئونتولوژیک}{۱۳۲}{section*.82}%
 \contentsfinish 

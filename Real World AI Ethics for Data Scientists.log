@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  13 JUN 2023 20:12
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  13 JUN 2023 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1722,6 +1722,12 @@ LaTeX Warning: Label `sec:تفسیر' multiply defined.
 
 LaTeX Warning: Label `subsec:اخلاق بودایی' multiply defined.
 
+
+LaTeX Warning: Label `subsec:اخلاق فضیلت' multiply defined.
+
+
+LaTeX Warning: Label `subsec:اخلاق دئونتولوژیک' multiply defined.
+
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
@@ -2013,13 +2019,13 @@ Invalid UTF-8 byte or sequence at line 1300 replaced by U+FFFD.
 (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 (./configurations/book title.tex
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 8.
+(Font)              scaled to size 24.88pt on input line 9.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 8.
+(Font)              scaled to size 24.88pt on input line 9.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 13.
+(Font)              scaled to size 20.74pt on input line 17.
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 15.
+(Font)              scaled to size 14.4pt on input line 19.
  [1
 
 
@@ -2111,8 +2117,8 @@ Overfull \hbox (11.25pt too wide) detected at line 24
  []
 
 [1]
-Overfull \hbox (11.25pt too wide) detected at line 31
- [][][][][]\TU/NoorNazanin(2)/m/n/12 ۲۷[][][][][]
+Overfull \hbox (10.82813pt too wide) detected at line 31
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ۲۶[][][][][]
  []
 
 
@@ -4037,7 +4043,71 @@ Overfull \hbox (0.48854pt too wide) in paragraph at lines 278--281
 دیجیتال برای تأثیرگذاری بر انتخاب‌های[]
  []
 
-) [128]
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+[][]
+ []
+
+[128] [129] [130]
+Underfull \hbox (badness 10000) in paragraph at lines 345--352
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--352
+[][]
+ []
+
+[131]
+LaTeX Info: Redefining \rmfamily on input line 361.
+LaTeX Info: Redefining \sffamily on input line 361.
+LaTeX Info: Redefining \ttfamily on input line 361.
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--363
+[][]
+ []
+
+[132]
+LaTeX Info: Redefining \rmfamily on input line 369.
+LaTeX Info: Redefining \sffamily on input line 369.
+LaTeX Info: Redefining \ttfamily on input line 369.
+LaTeX Info: Redefining \rmfamily on input line 369.
+LaTeX Info: Redefining \sffamily on input line 369.
+LaTeX Info: Redefining \ttfamily on input line 369.
+LaTeX Info: Redefining \rmfamily on input line 370.
+LaTeX Info: Redefining \sffamily on input line 370.
+LaTeX Info: Redefining \ttfamily on input line 370.
+ [133]
+LaTeX Info: Redefining \rmfamily on input line 385.
+LaTeX Info: Redefining \sffamily on input line 385.
+LaTeX Info: Redefining \ttfamily on input line 385.
+LaTeX Info: Redefining \rmfamily on input line 387.
+LaTeX Info: Redefining \sffamily on input line 387.
+LaTeX Info: Redefining \ttfamily on input line 387.
+LaTeX Info: Redefining \rmfamily on input line 387.
+LaTeX Info: Redefining \sffamily on input line 387.
+LaTeX Info: Redefining \ttfamily on input line 387.
+LaTeX Info: Redefining \rmfamily on input line 387.
+LaTeX Info: Redefining \sffamily on input line 387.
+LaTeX Info: Redefining \ttfamily on input line 387.
+
+Overfull \hbox (3.81276pt too wide) in paragraph at lines 385--388
+[]\TU/NoorNazanin(2)/m/sl/12 می‌تواند [][]\TU/TimesNewRoman(0)/b/n/12 Facebook[
+] []\TU/NoorNazanin(2)/m/sl/12 و نهادهایی را که از پلتفرم آن استفاده می‌کنند به
+ انطباق با دو شرط ریشه‌شناسی[]
+ []
+
+[134]) [135]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -4326,10 +4396,10 @@ ut' has not changed.
 Here is how much of TeX's memory you used:
  40611 strings out of 478149
  825413 string characters out of 5853102
- 1457469 words of memory out of 5000000
+ 1457825 words of memory out of 5000000
  60411 multiletter control sequences out of 15000+600000
  475506 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  104i,6n,115p,2663b,3718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (136 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (143 pages).
