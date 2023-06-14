@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  14 JUN 2023 01:38
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.10)  14 JUN 2023 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,7 +1131,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+Package hyperref Info: Option `colorlinks' set `true' on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xecolor/xecolor.sty
 Package: xecolor 2013/04/04 v0.1 color in xelatex
@@ -1842,6 +1842,18 @@ LaTeX Warning: Label `subsec:اخلاق فضیلت' multiply defined.
 
 LaTeX Warning: Label `subsec:اخلاق دئونتولوژیک' multiply defined.
 
+
+LaTeX Warning: Label `sec:تفسیر' multiply defined.
+
+
+LaTeX Warning: Label `subsec:اخلاق یهود' multiply defined.
+
+
+LaTeX Warning: Label `subsec:اخلاق دئونتولوژیک' multiply defined.
+
+
+LaTeX Warning: Label `subsec:اخلاق آفریقایی' multiply defined.
+
 )
 \openout1 = `"Real World AI Ethics for Data Scientists.aux"'.
 
@@ -2157,18 +2169,18 @@ LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 
-Overfull \hbox (5.74805pt too wide) detected at line 2
- [][][][][]\TU/NoorNazanin(2)/m/n/12 v[][][][][]
+Overfull \hbox (6.5039pt too wide) detected at line 2
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 ii[][][][][]
  []
 
 
-Overfull \hbox (9.0pt too wide) detected at line 3
- [][][][][]\TU/NoorNazanin(2)/m/n/12 vi[][][][][]
+Overfull \hbox (9.75586pt too wide) detected at line 3
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 iii[][][][][]
  []
 
 
-Overfull \hbox (12.25195pt too wide) detected at line 7
- [][][][][]\TU/NoorNazanin(2)/m/n/12 vii[][][][][]
+Overfull \hbox (9.0pt too wide) detected at line 7
+ [][][][][]\TU/NoorNazanin(2)/m/n/12 iv[][][][][]
  []
 
 LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/b/n' will be
@@ -2431,6 +2443,31 @@ Overfull \hbox (16.875pt too wide) detected at line 75
 
 Overfull \hbox (16.78711pt too wide) detected at line 79
  [][][][][]\TU/NoorNazanin(2)/b/n/12 ۱۳۶[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 80
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۳۸[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 81
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۳۹[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 82
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۴۲[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 83
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۴۸[][][][][]
+ []
+
+
+Overfull \hbox (16.875pt too wide) detected at line 84
+ [][][][][]\TU/NoorNazanin(2)/m/sl/12 ۱۵۰[][][][][]
  []
 
 )
@@ -4236,16 +4273,336 @@ Overfull \hbox (3.81276pt too wide) in paragraph at lines 385--388
 [134]) (./content/chapters/9 هوش مصنوعی و حیوانات.tex [135]
 فصل ۹.
 
-Overfull \hbox (10.83656pt too wide) in paragraph at lines 13--38
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+[][]
+ []
+
+[136
+
+]
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+ [137]
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+[138]
+Overfull \hbox (13.29323pt too wide) in paragraph at lines 71--78
+[][]\TU/NoorNazanin(2)/m/sl/12 الگوریتم‌های توصیه در پلتفرم‌های رسانه‌های اجتما
+عی، اپلیکیشن‌های خرید و برنامه‌های برنامه‌ریزی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--78
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--78
+[][]
+ []
+
+[139]
+LaTeX Info: Redefining \rmfamily on input line 88.
+LaTeX Info: Redefining \sffamily on input line 88.
+LaTeX Info: Redefining \ttfamily on input line 88.
+
+Overfull \hbox (6.67018pt too wide) in paragraph at lines 97--98
+[][]\TU/NoorNazanin(2)/m/sl/12 زبان گونه‌گرایی که در این پایگاه‌های اطلاعاتی من
+عکس می‌شود ممکن است به‌خوبی منعکس‌کننده[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 99.
+LaTeX Info: Redefining \sffamily on input line 99.
+LaTeX Info: Redefining \ttfamily on input line 99.
+LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \sffamily on input line 101.
+LaTeX Info: Redefining \ttfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 102.
+LaTeX Info: Redefining \sffamily on input line 102.
+LaTeX Info: Redefining \ttfamily on input line 102.
+[140]
+LaTeX Info: Redefining \rmfamily on input line 107.
+LaTeX Info: Redefining \sffamily on input line 107.
+LaTeX Info: Redefining \ttfamily on input line 107.
+LaTeX Info: Redefining \rmfamily on input line 107.
+LaTeX Info: Redefining \sffamily on input line 107.
+LaTeX Info: Redefining \ttfamily on input line 107.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+[][]
+ []
+
+[141]
+Overfull \hbox (10.83656pt too wide) in paragraph at lines 135--160
  [][][][][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 8.28319pt on input line 38.
+LaTeX Warning: Float too large for page by 8.28319pt on input line 160.
 
-) [136
+LaTeX Info: Redefining \rmfamily on input line 162.
+LaTeX Info: Redefining \sffamily on input line 162.
+LaTeX Info: Redefining \ttfamily on input line 162.
+LaTeX Info: Redefining \rmfamily on input line 162.
+LaTeX Info: Redefining \sffamily on input line 162.
+LaTeX Info: Redefining \ttfamily on input line 162.
+[142] [143]
+LaTeX Font Info:    Font shape `TU/NoorNazanin(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 174.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00085pt on input line 177.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 177.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 177.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 177.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 177.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 177.
 
-] [137]
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[][]\TU/NoorNazanin(2)/m/n/8 کلمات جستجو[]
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 179--179
+[][]\TU/NoorNazanin(2)/m/n/8 نتیجه غالب در[]
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 179--179
+[][]\TU/NoorNazanin(2)/m/n/8 حیوانات پرورشی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[][]\TU/NoorNazanin(2)/m/n/8 حیوانات وحشی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[][]\TU/NoorNazanin(2)/m/n/8 حیوانات مورد[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]\TU/NoorNazanin(2)/m/n/8 استفاده در[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+[][]\TU/NoorNazanin(2)/m/n/8 “حفاظت از[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 192.
+LaTeX Info: Redefining \sffamily on input line 192.
+LaTeX Info: Redefining \ttfamily on input line 192.
+LaTeX Info: Redefining \rmfamily on input line 192.
+LaTeX Info: Redefining \sffamily on input line 192.
+LaTeX Info: Redefining \ttfamily on input line 192.
+LaTeX Info: Redefining \rmfamily on input line 193.
+LaTeX Info: Redefining \sffamily on input line 193.
+LaTeX Info: Redefining \ttfamily on input line 193.
+Missing character: There is no ٪ (U+066A) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+Missing character: There is no ٪ (U+066A) in font NoorNazanin/OT:script=arab;la
+nguage=dflt;mapping=tex-text;!
+LaTeX Info: Redefining \rmfamily on input line 205.
+LaTeX Info: Redefining \sffamily on input line 205.
+LaTeX Info: Redefining \ttfamily on input line 205.
+LaTeX Info: Redefining \rmfamily on input line 207.
+LaTeX Info: Redefining \sffamily on input line 207.
+LaTeX Info: Redefining \ttfamily on input line 207.
+[144] [145]
+File: static/assets/img/figure.png Graphic file (type bmp)
+<static/assets/img/figure.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--229
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--229
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--229
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 234.
+LaTeX Info: Redefining \sffamily on input line 234.
+LaTeX Info: Redefining \ttfamily on input line 234.
+LaTeX Info: Redefining \rmfamily on input line 241.
+LaTeX Info: Redefining \sffamily on input line 241.
+LaTeX Info: Redefining \ttfamily on input line 241.
+[146]
+File: static/assets/img/figure2.png Graphic file (type bmp)
+<static/assets/img/figure2.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+[][]
+ []
+
+[147]
+Overfull \hbox (4.99896pt too wide) in paragraph at lines 263--265
+[]\TU/NoorNazanin(2)/m/sl/12 مستقیم بر زندگی حیوانات تأثیر می‌گذارند. استفاده ا
+ز هوش‌مصنوعی و علم‌داده در کشاورزی‌کارخانه‌ای[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 267.
+LaTeX Info: Redefining \sffamily on input line 267.
+LaTeX Info: Redefining \ttfamily on input line 267.
+LaTeX Info: Redefining \rmfamily on input line 280.
+LaTeX Info: Redefining \sffamily on input line 280.
+LaTeX Info: Redefining \ttfamily on input line 280.
+LaTeX Info: Redefining \rmfamily on input line 280.
+LaTeX Info: Redefining \sffamily on input line 280.
+LaTeX Info: Redefining \ttfamily on input line 280.
+LaTeX Info: Redefining \rmfamily on input line 284.
+LaTeX Info: Redefining \sffamily on input line 284.
+LaTeX Info: Redefining \ttfamily on input line 284.
+LaTeX Info: Redefining \rmfamily on input line 287.
+LaTeX Info: Redefining \sffamily on input line 287.
+LaTeX Info: Redefining \ttfamily on input line 287.
+LaTeX Info: Redefining \rmfamily on input line 287.
+LaTeX Info: Redefining \sffamily on input line 287.
+LaTeX Info: Redefining \ttfamily on input line 287.
+[148]
+Overfull \hbox (15.43776pt too wide) in paragraph at lines 290--298
+[]\TU/NoorNazanin(2)/m/sl/12 تحقیقات ما یک مشکل مشترک با الگوریتم‌هایی وجود دار
+د که مدعی شناسایی وضعیت‌های رفاهی/رفتاری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--298
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--298
+[][]
+ []
+
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+[][]
+ []
+
+[150]
+LaTeX Info: Redefining \rmfamily on input line 326.
+LaTeX Info: Redefining \sffamily on input line 326.
+LaTeX Info: Redefining \ttfamily on input line 326.
+ [151]
+Underfull \hbox (badness 10000) in paragraph at lines 342--347
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--347
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--359
+[][]
+ []
+
+[152] [153]
+Underfull \hbox (badness 10000) in paragraph at lines 387--393
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--393
+[][]
+ []
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 401--405
+[][]
+ []
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 423--430
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--430
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--430
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--430
+[][]
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
+[][]
+ []
+
+[157]) [158]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -4517,6 +4874,8 @@ content/chapters/6 بیومتریک و تشخیص چهره.tex
 content/chapters/7 تعدیل محتوا.tex
 content/chapters/8 بدافزارهای ذهنی.tex
 content/chapters/9 هوش مصنوعی و حیوانات.tex
+static/assets/img/figure.png
+static/assets/img/figure2.png
  ***********
 
 
@@ -4534,12 +4893,12 @@ ut' has not changed.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 51063 strings out of 478149
- 1177621 string characters out of 5853102
- 1884328 words of memory out of 5000000
- 70723 multiletter control sequences out of 15000+600000
- 475506 words of font info for 88 fonts, out of 8000000 for 9000
+ 51136 strings out of 478149
+ 1179709 string characters out of 5853102
+ 1890371 words of memory out of 5000000
+ 70783 multiletter control sequences out of 15000+600000
+ 479098 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 104i,18n,115p,2663b,5118s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,18n,115p,2663b,5114s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Real World AI Ethics for Data Scientists.pdf (145 pages).
+Output written on Real World AI Ethics for Data Scientists.pdf (166 pages).

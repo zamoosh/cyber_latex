@@ -77,4 +77,12 @@
 \contentsline {subsection}{اخلاق فضیلت}{۱۲۸}{section*.81}%
 \contentsline {subsection}{اخلاق دئونتولوژیک}{۱۳۲}{section*.82}%
 \contentsline {chapter}{\numberline {۹}هوش مصنوعی و حیوانات}{۱۳۶}{chapter.9}%
+\contentsline {section}{تعصب الگوریتمی}{۱۳۸}{section*.84}%
+\contentsline {section}{مدل های زبان و پایگاه های داده}{۱۳۹}{section*.85}%
+\contentsline {section}{تعصب در الگوریتم های موتورهای جستجو}{۱۴۲}{section*.86}%
+\contentsline {section}{هوش مصنوعی در کشاورزی کارخانه‌ای}{۱۴۸}{section*.87}%
+\contentsline {section}{تفسیر}{۱۵۰}{section*.88}%
+\contentsline {subsection}{اخلاق یهود}{۱۵۰}{section*.89}%
+\contentsline {subsection}{اخلاق دئونتولوژیک}{۱۵۲}{section*.90}%
+\contentsline {subsection}{اخلاق آفریقایی}{۱۵۵}{section*.91}%
 \contentsfinish 
